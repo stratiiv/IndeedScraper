@@ -10,6 +10,7 @@ from selenium.webdriver.support import expected_conditions as EC
 import time
 from bs4 import BeautifulSoup
 import pandas as pd
+import numpy as np
 
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver.maximize_window()
@@ -23,12 +24,12 @@ search_button.send_keys(Keys.RETURN)
 driver.find_element(By.CSS_SELECTOR,("#google-Only-Modal > div > div.google-Only-Modal-Upper-Row > button")).click() # close google login popup
 driver.find_element(By.CSS_SELECTOR,("#onetrust-reject-all-handler")).click() # close cookie alert
 action_chains = ActionChains(driver)
-
+df = pd.DataFrame(columns=['title','company_name','company_link','location','description'])
 
 while True: #traversing through all job cards in every page and parsing data from each
     try:
         job_postings = driver.find_elements(By.CSS_SELECTOR,'#mosaic-provider-jobcards > ul > li > div.cardOutline')
-        df = pd.DataFrame(columns=['title','company_name','company_link','location','description'])
+       
         print('job postings found',job_postings)
         for el in job_postings:
             action_chains.scroll_to_element(el).perform()
@@ -51,8 +52,7 @@ while True: #traversing through all job cards in every page and parsing data fro
         print(f'{e} --- No jobs found')
         driver.close()
         break
-    time.sleep(3)
-    try: 
+    try:  #go next page
         next_button = driver.find_element(By.CSS_SELECTOR,'a[data-testid="pagination-page-next"][aria-label="Next Page"]')
         next_button.click()
     except NoSuchElementException:
@@ -60,5 +60,5 @@ while True: #traversing through all job cards in every page and parsing data fro
         driver.close()
         break
 
-print(df.head(5))
-    
+print(df)
+df.to_csv('data/jobs.csv',index=False) # output to csv
