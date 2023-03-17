@@ -8,6 +8,7 @@ selenium = "*"
 webdriver-manager = "*"
 bs4 = "*"
 pandas = "*"
+lxml = "*"
 
 [dev-packages]
 
