@@ -12,24 +12,26 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import numpy as np
 
+POSITION_TITLE = 'python developer' # "what" field on website
+POSITION_LOCATION = 'Lviv' # "where" field
+
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
 driver.maximize_window()
 driver.get("https://www.indeed.com")
 what_field = driver.find_element(By.ID,"text-input-what")
 where_field = driver.find_element(By.ID,"text-input-where")
 search_button = driver.find_element(By.CLASS_NAME,"yosegi-InlineWhatWhere-primaryButton")
-what_field.send_keys("python developer")
-where_field.send_keys("Lviv")
+what_field.send_keys(POSITION_TITLE)
+where_field.send_keys(POSITION_LOCATION)
 search_button.send_keys(Keys.RETURN)
 driver.find_element(By.CSS_SELECTOR,("#google-Only-Modal > div > div.google-Only-Modal-Upper-Row > button")).click() # close google login popup
 driver.find_element(By.CSS_SELECTOR,("#onetrust-reject-all-handler")).click() # close cookie alert
-action_chains = ActionChains(driver)
+action_chains = ActionChains(driver) # to perform scrolling
 df = pd.DataFrame(columns=['title','company_name','company_link','location','description'])
 
 while True: #traversing through all job cards in every page and parsing data from each
     try:
         job_postings = driver.find_elements(By.CSS_SELECTOR,'#mosaic-provider-jobcards > ul > li > div.cardOutline')
-       
         print('job postings found',job_postings)
         for el in job_postings:
             action_chains.scroll_to_element(el).perform()
@@ -46,10 +48,11 @@ while True: #traversing through all job cards in every page and parsing data fro
             new_row = {'title':title,'company_name':company_name,'company_link':company_link,'location':location,'description':description}
             new_df = pd.DataFrame([new_row])
             df = pd.concat([df,new_df],ignore_index=True)
-            time.sleep(3)#timeout before next click to not get captcha verif
+            time.sleep(3) #timeout before next click to avoid captcha verif popup
         
     except NoSuchElementException as e:
-        print(f'{e} --- No jobs found')
+        print(e)
+        print("No jobs found")
         driver.close()
         break
     try:  #go next page
@@ -61,4 +64,6 @@ while True: #traversing through all job cards in every page and parsing data fro
         break
 
 print(df)
-df.to_csv('data/jobs.csv',index=False) # output to csv
+# df.to_csv('data/jobs.csv',index=False) # output to csv
+my_numpy = df.to_numpy()
+np.savetxt('data/jobs.csv', my_numpy,fmt='%s', delimiter=':::')

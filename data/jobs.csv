@@ -1,11 +1,52 @@
-title,company_name,company_link,location,description
-Python Back-End Developer,ABTO Software,https://ua.indeed.com/cmp/Abto-Software?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp2i4rjv6a800&fromjk=519431ff3227ab7a,Р›СЊРІС–РІ,"
+Python Developer:::Binariks:::https://ua.indeed.com/cmp/Binariks?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuiinfj6er800&fromjk=a2d439b5091d5af1:::Львів:::
+Binariks is looking for a highly motivated Python Developer for a healthcare project about the healing power of music and its positive impact on people with neurologic injuries and diseases. Using the product gives people access to song experiences that improve their ability to walk. Client's company built a partnership with the Universal Music Group - the world leader in music-based entertainment, so the product has a database with an outstanding amount of songs that can be used as a treatment. Just imagine - healing while enjoying your favorite song.
+Team size: a few Scrum teams, each up to 5 team members. We're hiring people to build a new Scrum team that should contain 1 Senior backend (Python) Developer, 1 Python Developer, and 1 Senior Manual QA Engineer. Each team has its Product Manager/PO. Each team works on a separate backlog, but the collaboration between teams is encouraged and supported by the company.
+
+Requirements:
+
+Experience with Python, Django 3+ years
+ Experience in cloud web development (preferably AWS)
+ Strong experience with Terraform
+ Familiarity in developing systems and/or applications subject to HIPAA/FDA compliance regulations
+ Experience with data analytics tools or building artificial intelligence/machine learning cloud applications
+ Familiarity with Docker and container orchestration
+ Experience working in a start-up or small business environment
+ Strategic, analytical, and mathematical mind, capable of evaluating and solving various complex problems
+ Self-motivated attitude with the ability to multitask and thrive in a fast-paced start-up environment
+ Interpersonal communication skills to support cross-team communications
+ Agile and Scrum experience
+ At least an Upper-Intermediate level of English for daily communication
+
+Responsibilities:
+
+Build innovative, high-quality, and high-performance applications that run on AWS using technologies, such as Django, Docker, and Python. We value the ability to learn and grow together above knowing any particular technology
+ Manage clinical data within clinical databases and backend systems
+ Drive technical investments from the early exploration of ideas to delivering integral parts of our stack, balancing short-term goals with long-term architectural vision
+ Work collaboratively in a small, focused product team with other developers, QA engineers, and business stakeholders to develop backend cloud systems, partner integrations, and data support tools
+
+We provide following for our employees:
+
+18 working days of paid vacation
+ 10 working days of sick leave annually (5 days paid at 100% and 5 days at 75% rate of your average monthly salary)
+ Medical insurance
+ 50% cost compensation for English courses at the office
+ Flexible work schedule
+ Additional days off for special occasions, national holidays off
+ A competitive and rewarding salary based on performance appraisals/knowledge evaluation
+ Possibility to share and gain knowledge on regular tech talks
+ Friendly and professional team
+ Innovative projects with advanced technologies
+ Remote work
+ Accounting service
+
+
+Python Back-End Developer:::ABTO Software:::https://ua.indeed.com/cmp/Abto-Software?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuimbajknf800&fromjk=519431ff3227ab7a:::Львів:::
 About Project:
  Web project for managing portable and temporary traffic signal products. Solutions to make road works safer, greener, and more efficient. The system can manage assets, check state, and change mode. The system allows organizing the hierarchy of responsible employees, adding different types of administrators, who can see different pieces of information related to assets, and control a large number of traffic lights properties.
  The technology stack of the Project:
  Python, FastAPI, Uvicorn, Pytest, Azure SQL, Pydantic (Models), boto3 (SQS), SQLAlchemy ([pyodbc] DB connection), alembic (DB migrations), Docker/Kubernetes.
  Team on our side: 1 FE, 1 PM
- Team on the customerвЂ™s side: CTO, BE
+ Team on the customer’s side: CTO, BE
  Requirements:
 
  2+ years of experience with the programming language Python (preferably FastAPI framework);
@@ -14,7 +55,7 @@ About Project:
  Experience with version control (Git / GitLab);
  Aim to solve problems by himself using close cooperation with stakeholders;
  Proactive in communication;
- Level of English вЂ“ Upper-intermediate.
+ Level of English – Upper-intermediate.
 
  Responsibilities:
 
@@ -37,9 +78,9 @@ About Project:
  English courses;
  Gym, etc.
 
-"
-Python / Django Developer,PROBEGIN,https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp2lv5k98h802&fromjk=f651b58026f82619,Р›СЊРІС–РІ,"
-Ever wondered how your Python code can help a mayor tailer market? Users of your made system all over the world? And yes, weвЂ™re talking about Europe, North America and Asia. Our, and so your client is one of the biggest international textile production companies, and needs your help to create and support a system to help him in their process.
+
+Python / Django Developer:::PROBEGIN:::https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuipueg3ln800&fromjk=f651b58026f82619:::Львів:::
+Ever wondered how your Python code can help a mayor tailer market? Users of your made system all over the world? And yes, we’re talking about Europe, North America and Asia. Our, and so your client is one of the biggest international textile production companies, and needs your help to create and support a system to help him in their process.
  Join our team
  Are you the Python / Django developer to improve and extend our team? As a new team member you will be involved in the implementation of new functionalities for an existing Django based platform, writing unit tests and developing the REST API.
  Join our super friendly team and together tackle this, and possibly other challenging projects, to improve your personal and technological development. The team will consist of 3 self-driven professionals in Lviv, 7 in the Netherlands and 1 in Poland. Do you have what it takes, what are you waiting for?
@@ -83,51 +124,9 @@ Career Planning, Development and Training
  Lots of company activities
  Work hard, play hard
 
-"
-Python Developer,Binariks,https://ua.indeed.com/cmp/Binariks?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp2pbi2fss002&fromjk=a2d439b5091d5af1,Р›СЊРІС–РІ,"
-Binariks is looking for a highly motivated Python Developer for a healthcare project about the healing power of music and its positive impact on people with neurologic injuries and diseases. Using the product gives people access to song experiences that improve their ability to walk. Client's company built a partnership with the Universal Music Group - the world leader in music-based entertainment, so the product has a database with an outstanding amount of songs that can be used as a treatment. Just imagine - healing while enjoying your favorite song.
-Team size: a few Scrum teams, each up to 5 team members. We're hiring people to build a new Scrum team that should contain 1 Senior backend (Python) Developer, 1 Python Developer, and 1 Senior Manual QA Engineer. Each team has its Product Manager/PO. Each team works on a separate backlog, but the collaboration between teams is encouraged and supported by the company.
 
-Requirements:
-
-Experience with Python, Django 3+ years
- Experience in cloud web development (preferably AWS)
- Strong experience with Terraform
- Familiarity in developing systems and/or applications subject to HIPAA/FDA compliance regulations
- Experience with data analytics tools or building artificial intelligence/machine learning cloud applications
- Familiarity with Docker and container orchestration
- Experience working in a start-up or small business environment
- Strategic, analytical, and mathematical mind, capable of evaluating and solving various complex problems
- Self-motivated attitude with the ability to multitask and thrive in a fast-paced start-up environment
- Interpersonal communication skills to support cross-team communications
- Agile and Scrum experience
- At least an Upper-Intermediate level of English for daily communication
-
-Responsibilities:
-
-Build innovative, high-quality, and high-performance applications that run on AWS using technologies, such as Django, Docker, and Python. We value the ability to learn and grow together above knowing any particular technology
- Manage clinical data within clinical databases and backend systems
- Drive technical investments from the early exploration of ideas to delivering integral parts of our stack, balancing short-term goals with long-term architectural vision
- Work collaboratively in a small, focused product team with other developers, QA engineers, and business stakeholders to develop backend cloud systems, partner integrations, and data support tools
-
-We provide following for our employees:
-
-18 working days of paid vacation
- 10 working days of sick leave annually (5 days paid at 100% and 5 days at 75% rate of your average monthly salary)
- Medical insurance
- 50% cost compensation for English courses at the office
- Flexible work schedule
- Additional days off for special occasions, national holidays off
- A competitive and rewarding salary based on performance appraisals/knowledge evaluation
- Possibility to share and gain knowledge on regular tech talks
- Friendly and professional team
- Innovative projects with advanced technologies
- Remote work
- Accounting service
-
-"
-Java Developer,EveryMatrix,https://ua.indeed.com/cmp/Everymatrix?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp2svnjv54800&fromjk=26f8097e5a5d7c10,Р›СЊРІС–РІ,"
-EveryMatrix is looking for a Java Developer to join our OddsMatrix Quants team in Lviv or Zagreb.  Main responsibilities: As a member of OddsMatrix Quants Team, youвЂ™ll be working on extending and improving the odds model component вЂ“ a scalable service, responsible for the calculation and maintaining the sportвЂ™s odds.  Requirements:
+Java Developer:::EveryMatrix:::https://ua.indeed.com/cmp/Everymatrix?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuithnk9a3800&fromjk=26f8097e5a5d7c10:::Львів:::
+EveryMatrix is looking for a Java Developer to join our OddsMatrix Quants team in Lviv or Zagreb.  Main responsibilities: As a member of OddsMatrix Quants Team, you’ll be working on extending and improving the odds model component – a scalable service, responsible for the calculation and maintaining the sport’s odds.  Requirements:
 
  Strong proficiency with Java 8/11 or newer
 Strong experience and knowledge of OOP, data structures, algorithm complexity.
@@ -156,10 +155,10 @@ Work Life Balance:
 
  Possibility of working remote;
 Paid leave days and two extra days per year for every year up to 5 years working with us; 
-100% covered 10 sick leave days per year (without a doctorвЂ™s note);
+100% covered 10 sick leave days per year (without a doctor’s note);
 100% covered medical leave (with a doctor's note);
 Sliding working schedule;
-To support women candidates, we offer 21 weeks of maternity leave and 100% work from home until the childвЂ™s first birthday for mothers;
+To support women candidates, we offer 21 weeks of maternity leave and 100% work from home until the child’s first birthday for mothers;
 Men receive 4 weeks of paternity leave and can work from home until the child is 13 weeks old.
 
  Benefits and Office perks:
@@ -168,14 +167,51 @@ Men receive 4 weeks of paternity leave and can work from home until the child is
 Private Medical insurance;
 Gym membership;
 Fresh fruits & snacks at the office;
-Access to online learning platforms Udemy for Business and OвЂ™Reilly and budget for external training;
+Access to online learning platforms Udemy for Business and O’Reilly and budget for external training;
 Massage at work;
 In house English courses;
 Frequent free-bar parties, annual whole-company parties (have previously rented our own planes to get everyone together!);
 Lounge & Fun area.
 
-"
-Senior Python Developer with AWS,Binariks,https://ua.indeed.com/cmp/Binariks?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp30kejl1o800&fromjk=bb0c857f724f1d85,Р›СЊРІС–РІ,"
+
+Python/Golang Developer:::PROBEGIN:::https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuj18b2eh1001&fromjk=e36078c7d5fe0dca:::Львів:::
+Our client is an startup company, based in Amsterdam The Netherlands. You will be part of the development team that builds the core engine of the project. You have in-depth knowledge of scraping unstructured internet data and turn that into useable business knowledge. You love research and development in a small, highly skilled team and have an inquisitive DNA.
+ Your first goal will be to develop the MVP with the team. The MVP has been mapped out in a wireframe plus behavior of the various elements, by the marketing and businesspeople in the company. In daily standups the team will come together and share progress it is making.
+ Requirements:
+
+ At least 5 years Experience with software development
+ Bachelor/Master in IT, Math or Computer Science
+ You have a strong passion about software development and working with GO, Python, C#
+ You have experience with Docker and scaling principles
+ Your experienced with web scraping
+ Bright and a strong work drive, drive to perform and grow
+ Good knowledge and experience of building OOP
+ Clean and Clear coding
+ Working experience with the following Tools: Git, JIRA
+ Excellent communication skills
+ Proactively drive innovation with new ideas and options made available by new technologies
+ Professional attitude and work ethics
+ Good level of English (intermediate or upper intermediate)
+
+ We will offer you:
+
+ Experienced, open-minded, professional teams
+ Unique working environment where you communicate and work directly with client
+ Nice work environment where you work with Friends
+ Competitive salary
+ Excellent benefits
+ Fresh and Tasty Coffee, Tea and Cookies
+ Courses of English
+ Five-days working week
+ Health Insurance & Multisport Program
+ Flexible Office hours, depending on the project
+ Paid vacation (21 working days) and sick leave
+ Career Planning, Development and Training
+ Lots of company activities
+
+ Interested to join this cool and innovative project? Send us your CV and motivation letter to hr@probegin.com
+
+Senior Python Developer with AWS:::Binariks:::https://ua.indeed.com/cmp/Binariks?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuj4rfj6en800&fromjk=bb0c857f724f1d85:::Львів:::
 
 
 Project Description
@@ -205,7 +241,7 @@ Project Description
 
 
 
-What WeвЂ™re Looking For
+What We’re Looking For
 
 
 
@@ -311,88 +347,8 @@ What WeвЂ™re Looking For
 
 
 
-"
-Python/Golang Developer,PROBEGIN,https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp349kkcot800&fromjk=e36078c7d5fe0dca,Р›СЊРІС–РІ,"
-Our client is an startup company, based in Amsterdam The Netherlands. You will be part of the development team that builds the core engine of the project. You have in-depth knowledge of scraping unstructured internet data and turn that into useable business knowledge. You love research and development in a small, highly skilled team and have an inquisitive DNA.
- Your first goal will be to develop the MVP with the team. The MVP has been mapped out in a wireframe plus behavior of the various elements, by the marketing and businesspeople in the company. In daily standups the team will come together and share progress it is making.
- Requirements:
 
- At least 5 years Experience with software development
- Bachelor/Master in IT, Math or Computer Science
- You have a strong passion about software development and working with GO, Python, C#
- You have experience with Docker and scaling principles
- Your experienced with web scraping
- Bright and a strong work drive, drive to perform and grow
- Good knowledge and experience of building OOP
- Clean and Clear coding
- Working experience with the following Tools: Git, JIRA
- Excellent communication skills
- Proactively drive innovation with new ideas and options made available by new technologies
- Professional attitude and work ethics
- Good level of English (intermediate or upper intermediate)
-
- We will offer you:
-
- Experienced, open-minded, professional teams
- Unique working environment where you communicate and work directly with client
- Nice work environment where you work with Friends
- Competitive salary
- Excellent benefits
- Fresh and Tasty Coffee, Tea and Cookies
- Courses of English
- Five-days working week
- Health Insurance & Multisport Program
- Flexible Office hours, depending on the project
- Paid vacation (21 working days) and sick leave
- Career Planning, Development and Training
- Lots of company activities
-
- Interested to join this cool and innovative project? Send us your CV and motivation letter to hr@probegin.com
-"
-Senior Python developer,Quintagroup,https://ua.indeed.com/cmp/Quintagroup?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp37vsjv4g800&fromjk=90afe0bfa02b5d2c,Р›СЊРІС–РІ,"
-
-Hey! How you doin`? Quintagroup is waiting for you!
- We are looking for Senior Python developers. Your mission will be part of the exciting environment and creating new features for the product.
- So, and now, we are looking for you and your experience.
- What should you do as a Python developer?
- Your future responsibilities:
-
-Build new features in collaboration with the product team;
-Create new software and application;
-Write reusable, testable, and efficient code;
-Contribute to architecture decisions and communicate openly with other engineers;
-Work collaboratively with a highly talented development team;
-
-Requirements for our new Python developer:
-
-4+ years of experience with Python (Django, Celery);
-2+ years of experience with AWS;
-Strong knowledge of DB (PostgreSQL, MySQL);
-Ability to work with distributed systems/databases;
-Experience with building a high-load environment;
-Ability to clearly communicate task statuses and schedules;
-English - no less than upper-intermediate;
-The desire to develop and learn new technologies;
-Natural curiosity - you enjoy digging deeper to find the big picture;
-Humility - youвЂ™re able to contribute to the team, ego aside;
-Enthusiasm about helping others, especially team members.
-
-We offer:
-
-Interesting tasks, opportunities for career and professional growth;
-Friendly atmosphere and good working conditions;
-Regular team-buildings and corporate parties;
-Competitive salary and bonuses;
-Official employment;
-In-office English classes;
-Flexible working hours;
-РЎompensation for external training and courses.
-
-Interested? We are waiting for your CV to jobs@quintagroup.com.
-
-
-"
-Senior AQA (SDET) with Python,StrongSD GmbH,https://ua.indeed.com/cmp/Strongsd-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp3bkl2h56000&fromjk=21e4229d665ba5db,Р›СЊРІС–РІ,"We are looking for a Senior Software Developer in Test, who loves to build great products. We want someone up for taking on challenges, keen on getting new skills, willing to compromise, and not afraid to fail. You will design new frameworks for automation tests. If you love challenges and solving problems, this is for you. 
+Senior AQA (SDET) with Python:::StrongSD GmbH:::https://ua.indeed.com/cmp/Strongsd-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuj8jhjl2j800&fromjk=21e4229d665ba5db:::Львів:::We are looking for a Senior Software Developer in Test, who loves to build great products. We want someone up for taking on challenges, keen on getting new skills, willing to compromise, and not afraid to fail. You will design new frameworks for automation tests. If you love challenges and solving problems, this is for you. 
 
  Tasks 
 
@@ -415,20 +371,20 @@ Experience building tools that enable and accelerate test automation scripting a
 Experience delivering QA programs, supporting ongoing QA operations and maturing QA processes.
 Experience using Bug & Test Suite Management tools (X-ray, TestRail, Jira or other agile test management tools).
 Exposure to Behavior Driven Development and experience in programming and testing.
-A BachelorвЂ™s degree in Computer Science, Computer Engineering, or a related field.
+A Bachelor’s degree in Computer Science, Computer Engineering, or a related field.
  Benefits 
 
 
 
-We offer a decent salary based on real experience and expertise, rather than the regionвЂ™s average industry salary.
+We offer a decent salary based on real experience and expertise, rather than the region’s average industry salary.
 You will collaborate with highly motivated, talented and inspiring team members.
 Challenging and interesting software projects, not just tedious routine work.
 Extensive remote work possibilities.
 English classes, paid seminars, masterclasses, training and world-class conferences.
 Performance review every six months.
 Unforgettable team buildings in different countries.
- Famous US-based accommodation marketplace that provides access to 5+ million unique places to stay in more than 81,000 cities and 191 countries is looking for a talented SDET to build automated testing tools and automated tests that improve the quality of the product across the web, mobile web, and native apps."
-Senior FS Python Developer,Vector Software,https://ua.indeed.com/cmp/Vector-Software?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp3f9dkcp7800&fromjk=9c217869ac9fad4b,Р›СЊРІС–РІ,"
+ Famous US-based accommodation marketplace that provides access to 5+ million unique places to stay in more than 81,000 cities and 191 countries is looking for a talented SDET to build automated testing tools and automated tests that improve the quality of the product across the web, mobile web, and native apps.
+Senior FS Python Developer:::Vector Software:::https://ua.indeed.com/cmp/Vector-Software?campaignid=mobvjcmp&from=mobviewjob&tk=1grnujc81k98h800&fromjk=9c217869ac9fad4b:::Львів:::
 
 
 
@@ -548,8 +504,51 @@ Loyalty program (IT club)
     Or send your CV at job@vector-software.com
   
 
-"
-Java Developer,Pixels Matter,https://ua.indeed.com/cmp/Pixels-Matter?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp3it3k98r800&fromjk=5f3e1d9c1b5a9aa7,Р›СЊРІС–РІ,"
+
+Senior Python developer:::Quintagroup:::https://ua.indeed.com/cmp/Quintagroup?campaignid=mobvjcmp&from=mobviewjob&tk=1grnujfsgjkkl800&fromjk=90afe0bfa02b5d2c:::Львів:::
+
+Hey! How you doin`? Quintagroup is waiting for you!
+ We are looking for Senior Python developers. Your mission will be part of the exciting environment and creating new features for the product.
+ So, and now, we are looking for you and your experience.
+ What should you do as a Python developer?
+ Your future responsibilities:
+
+Build new features in collaboration with the product team;
+Create new software and application;
+Write reusable, testable, and efficient code;
+Contribute to architecture decisions and communicate openly with other engineers;
+Work collaboratively with a highly talented development team;
+
+Requirements for our new Python developer:
+
+4+ years of experience with Python (Django, Celery);
+2+ years of experience with AWS;
+Strong knowledge of DB (PostgreSQL, MySQL);
+Ability to work with distributed systems/databases;
+Experience with building a high-load environment;
+Ability to clearly communicate task statuses and schedules;
+English - no less than upper-intermediate;
+The desire to develop and learn new technologies;
+Natural curiosity - you enjoy digging deeper to find the big picture;
+Humility - you’re able to contribute to the team, ego aside;
+Enthusiasm about helping others, especially team members.
+
+We offer:
+
+Interesting tasks, opportunities for career and professional growth;
+Friendly atmosphere and good working conditions;
+Regular team-buildings and corporate parties;
+Competitive salary and bonuses;
+Official employment;
+In-office English classes;
+Flexible working hours;
+Сompensation for external training and courses.
+
+Interested? We are waiting for your CV to jobs@quintagroup.com.
+
+
+
+Java Developer:::Pixels Matter:::https://ua.indeed.com/cmp/Pixels-Matter?campaignid=mobvjcmp&from=mobviewjob&tk=1grnujjiljv5n800&fromjk=5f3e1d9c1b5a9aa7:::Львів:::
 
 
 
@@ -757,8 +756,50 @@ Java Developer
 
 
 
-"
-Python Middle+ Developer,HuntMР•,https://ua.indeed.com/cmp/Huntm%D0%B5?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp3mgek997800&fromjk=44a3082a4b09c955,Р›СЊРІС–РІ,"
+
+Odoo/OpenERP Developer:::Quintagroup:::https://ua.indeed.com/cmp/Quintagroup?campaignid=mobvjcmp&from=mobviewjob&tk=1grnujn70jv65800&fromjk=f659d2fb28ebc11c:::Львів:::
+
+Hey! How you doin`? Quintagroup is waiting for you!
+ We are a team of professionals with a passion for our occupation.
+ Quintagroup provides consulting, programming and support services to organizations interested in web-based solutions on the open platform basis. We develope e-auction, e-procurement, e-commerce solutions. We are fond of open source and Python.
+ Now, we are looking for a talented Odoo/OpenERP Developer..
+ What should you do as a Odoo/OpenERP Developer.?
+ Your future responsibilities:
+
+Development of new Odoo add-ons to fulfill business needs;
+Updating the existing add-ons, both our own and third-party;
+Maintaining code quality via unit testing;
+Documenting the code, writing short READMEs and usage instructions;
+Integration with other systems using Web APIs;
+Participation in the planning and execution stages;
+Researching and applying technologies to implement effective solutions
+
+Requirements:
+
+Strong knowledge of Python, Django;
+Experience in integrating Odoo with external systems using their APIs, Odoo's XML-RPC and JSON-RPC APIs or (preferably) Odoo Connector Framework;
+Practical experience in building, running and managing containers (Docker, Flant Werf/Dapp, docker-compose, Kubernetes, Nomad);
+Experience with backbone.js;
+Desire to develop and learn.
+
+Would be a plus:
+
+Experience in database upgrade between major Odoo versions
+
+We offer:
+
+Interesting tasks, possibilities for career and professional growth;
+Friendly atmosphere and good working conditions;
+Regular team-buildings and corporate parties;
+Competitive salary and bonuses;
+Official employment;
+Flexible working hours.
+
+If you are interested please send us your CV to jobs@quintagroup.com.
+
+
+
+Python Middle+ Developer:::HuntMЕ:::https://ua.indeed.com/cmp/Huntm%D0%B5?campaignid=mobvjcmp&from=mobviewjob&tk=1grnujqrk2d60001&fromjk=44a3082a4b09c955:::Львів:::
 
 
   We are looking for Python dev.
@@ -814,50 +855,8 @@ English lessons;
 Donuts every Tuesday, Pizza every Friday!
 
 
-"
-Odoo/OpenERP Developer,Quintagroup,https://ua.indeed.com/cmp/Quintagroup?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp3q56k98i800&fromjk=f659d2fb28ebc11c,Р›СЊРІС–РІ,"
 
-Hey! How you doin`? Quintagroup is waiting for you!
- We are a team of professionals with a passion for our occupation.
- Quintagroup provides consulting, programming and support services to organizations interested in web-based solutions on the open platform basis. We develope e-auction, e-procurement, e-commerce solutions. We are fond of open source and Python.
- Now, we are looking for a talented Odoo/OpenERP Developer..
- What should you do as a Odoo/OpenERP Developer.?
- Your future responsibilities:
-
-Development of new Odoo add-ons to fulfill business needs;
-Updating the existing add-ons, both our own and third-party;
-Maintaining code quality via unit testing;
-Documenting the code, writing short READMEs and usage instructions;
-Integration with other systems using Web APIs;
-Participation in the planning and execution stages;
-Researching and applying technologies to implement effective solutions
-
-Requirements:
-
-Strong knowledge of Python, Django;
-Experience in integrating Odoo with external systems using their APIs, Odoo's XML-RPC and JSON-RPC APIs or (preferably) Odoo Connector Framework;
-Practical experience in building, running and managing containers (Docker, Flant Werf/Dapp, docker-compose, Kubernetes, Nomad);
-Experience with backbone.js;
-Desire to develop and learn.
-
-Would be a plus:
-
-Experience in database upgrade between major Odoo versions
-
-We offer:
-
-Interesting tasks, possibilities for career and professional growth;
-Friendly atmosphere and good working conditions;
-Regular team-buildings and corporate parties;
-Competitive salary and bonuses;
-Official employment;
-Flexible working hours.
-
-If you are interested please send us your CV to jobs@quintagroup.com.
-
-
-"
-РЎ++ developer,KindGeek,https://ua.indeed.com/cmp/Kindgeek?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp3tq3jkbd801&fromjk=0b89e942f783f894,Р›СЊРІС–РІ,"
+С++ developer:::KindGeek:::https://ua.indeed.com/cmp/Kindgeek?campaignid=mobvjcmp&from=mobviewjob&tk=1grnujue62hja000&fromjk=0b89e942f783f894:::Львів:::
 
 
    Work experience
@@ -879,34 +878,34 @@ If you are interested please send us your CV to jobs@quintagroup.com.
   
 
 
- РЁСѓРєР°С”РјРѕ РІ СЃРІРѕСЋ РєРѕРјР°РЅРґСѓ РґРѕСЃРІС–РґС‡РµРЅРѕРіРѕ С‚Р° РІРјРѕС‚РёРІРѕРІР°РЅРѕРіРѕ C++ developer.
+ Шукаємо в свою команду досвідченого та вмотивованого C++ developer.
 
  REQUIREMENTS
 
 
- РќРµ РјРµРЅС€Рµ 3 СЂРѕРєС–РІ РєРѕРјРµСЂС†С–Р№РЅРѕРіРѕ РґРѕСЃРІС–РґСѓ Р· C++;
- Р”РѕСЃРІС–Рґ Р· РєСЂРѕСЃ-РєРѕРјРїС–Р»СЏС†С–С”СЋ С‚Р° РІС–РґРґР°Р»РµРЅРёРј РІС–РґР»Р°РіРѕРґР¶РµРЅРЅСЏРј (gcc, gdb);
- Р”РѕСЃРІС–Рґ СЂРѕР±РѕС‚Рё Р· Git;
- Р’С–Рґ 1 СЂРѕРєСѓ РєРѕРјРµСЂС†С–Р№РЅРѕРіРѕ РґРѕСЃРІС–РґСѓ Р· Р±Р°РіР°С‚РѕРїРѕС‚С–С‡РЅРёРјРё Р°Р»РіРѕСЂРёС‚РјР°РјРё;
- Р”РѕСЃРІС–Рґ СЂРѕР±РѕС‚Рё РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ РЅР° РћРЎ Linux;
- Р—РЅР°РЅРЅСЏ РѕСЃРЅРѕРІ РјРµСЂРµР¶РµРІРёС… РїСЂРѕС‚РѕРєРѕР»С–РІ, TCP, UDP;
- Р—РЅР°РЅРЅСЏ РѕСЃРЅРѕРІРё С„СѓРЅС†С–РѕРЅСѓРІР°РЅРЅСЏ С€РёРЅ РѕР±РјС–РЅСѓ РґР°РЅРёС… - UART, CAN, Ethernet;
- Р РѕР·СѓРјС–РЅРЅСЏ РѕСЃРЅРѕРІ С„СѓРЅРєС†С–РѕРЅСѓРІР°РЅРЅСЏ РјС–РєСЂРѕРєРѕРЅС‚СЂРѕР»РµСЂС–РІ (STM32);
- Р РѕР·СѓРјС–РЅРЅСЏ Р·Р°РіР°Р»СЊРЅРёС… РїСЂРёРЅС†РёРїС–РІ РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ С– СЂРѕР·СЂРѕР±РєРё embedded СЃРёСЃС‚РµРј;
- Р—РЅР°РЅРЅСЏ РѕСЃРЅРѕРІ С†РёС„СЂРѕС„РѕС— РѕР±СЂРѕР±РєРё СЃРёРіРЅР°Р»С–РІ.
+ Не менше 3 років комерційного досвіду з C++;
+ Досвід з крос-компіляцією та віддаленим відлагодженням (gcc, gdb);
+ Досвід роботи з Git;
+ Від 1 року комерційного досвіду з багатопотічними алгоритмами;
+ Досвід роботи програмування на ОС Linux;
+ Знання основ мережевих протоколів, TCP, UDP;
+ Знання основи фунціонування шин обміну даних - UART, CAN, Ethernet;
+ Розуміння основ функціонування мікроконтролерів (STM32);
+ Розуміння загальних принципів програмування і розробки embedded систем;
+ Знання основ цифрофої обробки сигналів.
 
- Р‘СѓРґРµ РїРµСЂРµРІР°РіРѕСЋ:
+ Буде перевагою:
 
- Р—РЅР°РЅРЅСЏ С‚Р° РґРѕСЃРІС–Рґ Р· РјРѕРІР° РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ C С‚Р° Python.
+ Знання та досвід з мова програмування C та Python.
 
 
  RESPONSIBILITIES
 
 
- РљРѕРјСѓРЅС–РєР°С†С–СЏ (РєРѕРјР°РЅРґРё - С‚РµР»РµРјРµС‚СЂС–СЏ) Р· РїСѓР»СЊС‚РѕРј РєРµСЂСѓРІР°РЅРЅСЏ;
- РљРѕРјСѓРЅС–РєР°С†С–СЏ Р· РІРёРєРѕРЅР°РІС‡РёРјРё РїСЂРёСЃС‚СЂРѕСЏРјРё С– СЃРµРЅСЃРѕСЂР°РјРё ( CAN, UART, RS485);
- Р РµР°Р»С–Р·Р°С†С–СЏ Р°Р»РіРѕСЂРёС‚РјС–РІ РєРµСЂСѓРІР°РЅРЅСЏ РєС–РЅС†РµРІРёРјРё РїСЂРёСЃС‚СЂРѕСЏРјРё РґРёСЃС‚Р°РЅС†С–Р№РЅРѕ-РєРµСЂРѕРІР°РЅРѕС— РїР»Р°С‚С„РѕСЂРјРё;
- Р РµР°Р»С–Р·Р°С†С–СЏ Р°Р»РіРѕСЂРёС‚РјС–РІ РЅР°РїС–РІР°РІС‚РѕРЅРѕРјРЅРѕС— С– Р°РІС‚РѕРЅРѕРјРЅРѕС— РїРѕРІРµРґС–РЅРєРё РґРёСЃС‚Р°РЅС†С–Р№РЅРѕ-РєРµСЂРѕРІР°РЅРѕС— РїР»Р°С‚РѕС„РѕСЂРјРё.
+ Комунікація (команди - телеметрія) з пультом керування;
+ Комунікація з виконавчими пристроями і сенсорами ( CAN, UART, RS485);
+ Реалізація алгоритмів керування кінцевими пристроями дистанційно-керованої платформи;
+ Реалізація алгоритмів напівавтономної і автономної поведінки дистанційно-керованої платоформи.
 
 
  WHAT WILL YOU GET WITH KINDGEEK 
@@ -916,18 +915,60 @@ We want you to thrive and feel supported
  Professional growth: at KindGeek, we want our employees to grow and achieve ambitious professional goals. We support professional development with training and certifications refunds, as well as provide regular feedback and technical reviews.
  Benefits package: KindGeek offers all team members competitive pay along with a benefits package that includes 18 working days of fully paid vacation, 10 compensated by 50% sick leaves as well as an opportunity to take study leaves. Depending on how long you stay in the company, you can receive different health insurance packages from our partners.
  Personal growth: as a part of our team, you will have corporate English courses with a 50% sponsorship, take advantage of our library and access a large selection of corporate training and courses.
- Geek community: at KindGeek, we value community вЂ“ even in the social distancing times we take every opportunity to stick together. Our Geeks organize various online and offline clubs вЂ“ from stretching and skiing to English. Football enthusiasts can also join the corporate team that regularly participates in Lviv IT League.
- Flexibility: KindGeek offers a hybrid working model. Team members can work remotely or from the office or KindGeek London Hub вЂ“ an innovative cafe-style co-working.
+ Geek community: at KindGeek, we value community – even in the social distancing times we take every opportunity to stick together. Our Geeks organize various online and offline clubs – from stretching and skiing to English. Football enthusiasts can also join the corporate team that regularly participates in Lviv IT League.
+ Flexibility: KindGeek offers a hybrid working model. Team members can work remotely or from the office or KindGeek London Hub – an innovative cafe-style co-working.
 
 
  We encourage you to apply
 
-    At KindGeek, we encourage everyone to apply вЂ“ no matter of nationality, race, gender, marital status, disability, sexual identity, or religion. We are on the journey of growing into an inclusive, equal opportunity company where only professionalism, competence, and ideas matter. Our mission is to bring equal opportunities to all team members and candidates вЂ“ especially those who have been underrepresented in technological companies.
+    At KindGeek, we encourage everyone to apply – no matter of nationality, race, gender, marital status, disability, sexual identity, or religion. We are on the journey of growing into an inclusive, equal opportunity company where only professionalism, competence, and ideas matter. Our mission is to bring equal opportunities to all team members and candidates – especially those who have been underrepresented in technological companies.
   
 
 
-"
-Middle VUE.js developer,PROBEGIN,https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp41f6g3lr800&fromjk=552a9baa3ede6832,Р›СЊРІС–РІ,"
+
+PHP/JavaScript Developer:::ZeyOS:::https://ua.indeed.com/cmp/Zeyos?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuk1vnjtvc800&fromjk=8ac86625fc2d740c:::Львів:::
+
+
+
+
+    Worldwide
+   
+
+We are searching for outstanding web developers to be responsible for developing innovative business applications for our customers. This will invoice creating extensions for our ZeyOS platform, which allows our customer to work smarter and gain more productivity every day. You will work closely with our sales team to translate our customer requirements into feasible project specifications and quotes.
+ Tasks and responsibilities:
+
+Support us with various develop tasks
+Create extensions for ZeyOS
+Create stand-alone web-applications in PHP and JavaScript
+
+Qualifications:
+
+Excellent PHP skills
+Server-side JavaScript with Node.JS
+Python, including experience with PyQt
+Front-end JavaScript, especially MooTools, AngularJS
+Good Linux skills, preferably Ubuntu/Debian
+Solid database skills, especially SQL databases (PostgreSQL and MySQL)
+Experience with WebGL is a plus
+
+
+
+
+
+About Us
+ZeyOS is a software company originally founded in Munich 2009. We offer a platform for small businesses that unifies all the features you care about in one brilliant and intuitive platform - from e-mail and calendaring to inventory management and billing. We help growing companies that are stuck in a web of mesh-up and makeshift solutions. We are doing for businesses, what Apple did for consumers: Offering a truly integrated eco system for business apps that is as easy to use as iTunes, yet powerful and extensible in order to solve today's business problems.
+
+
+Location
+Lviv: iHub Lviv Zamknena St 9 Lviv Oblast Ukraine 
+Munich: Bretonischer Ring 5 85630 Grasbrunn Germany 
+San Francisco: 720 University Ave Palo Alto, CA 94301 United States
+
+
+
+
+
+Middle VUE.js developer:::PROBEGIN:::https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnuk5k5j9j5800&fromjk=552a9baa3ede6832:::Львів:::
 We are looking for a mid level Vue.js developer to join forces in the frontend team. As a new team member you will work in close cooperation with your colleagues and will be involved in the implementation of new functionalities for an existing Django based platform in the front end part. This is a dynamic and interesting role, part of a cool and driven team of specialists. Are you ready to make a difference?
  Requirements:
 
@@ -974,171 +1015,144 @@ We are looking for a mid level Vue.js developer to join forces in the frontend t
  Lots of company activities
 
  Interested to join this cool and innovative project? Send us your CV and motivation letter to hr@probegin.com
-"
-PHP/JavaScript Developer,ZeyOS,https://ua.indeed.com/cmp/Zeyos?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp452vjrin800&fromjk=8ac86625fc2d740c,Р›СЊРІС–РІ,"
 
-
-
-
-    Worldwide
-   
-
-We are searching for outstanding web developers to be responsible for developing innovative business applications for our customers. This will invoice creating extensions for our ZeyOS platform, which allows our customer to work smarter and gain more productivity every day. You will work closely with our sales team to translate our customer requirements into feasible project specifications and quotes.
- Tasks and responsibilities:
-
-Support us with various develop tasks
-Create extensions for ZeyOS
-Create stand-alone web-applications in PHP and JavaScript
-
-Qualifications:
-
-Excellent PHP skills
-Server-side JavaScript with Node.JS
-Python, including experience with PyQt
-Front-end JavaScript, especially MooTools, AngularJS
-Good Linux skills, preferably Ubuntu/Debian
-Solid database skills, especially SQL databases (PostgreSQL and MySQL)
-Experience with WebGL is a plus
-
-
-
-
-
-About Us
-ZeyOS is a software company originally founded in Munich 2009. We offer a platform for small businesses that unifies all the features you care about in one brilliant and intuitive platform - from e-mail and calendaring to inventory management and billing. We help growing companies that are stuck in a web of mesh-up and makeshift solutions. We are doing for businesses, what Apple did for consumers: Offering a truly integrated eco system for business apps that is as easy to use as iTunes, yet powerful and extensible in order to solve today's business problems.
-
-
-Location
-Lviv: iHub Lviv Zamknena St 9 Lviv Oblast Ukraine 
-Munich: Bretonischer Ring 5 85630 Grasbrunn Germany 
-San Francisco: 720 University Ave Palo Alto, CA 94301 United States
-
-
-
-
-"
-Senior Python (Full-stack),StrongSD GmbH,https://ua.indeed.com/cmp/Strongsd-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp4anjj9hm800&fromjk=068fd0c8f20d2f65,Р›СЊРІС–РІ,"We are looking for a full-time job at a Senior Python (Full-stack) developer who loves to build great products. We want someone who is up for taking on new challenges, keen on learning new skills, willing to compromise and not afraid to fail. If you love challenges and solving problems this is for you. 
+Senior Python (Full-stack):::StrongSD GmbH:::https://ua.indeed.com/cmp/Strongsd-Gmbh?campaignid=mobvjcmp&from=mobviewjob&tk=1grnukb04ienu800&fromjk=068fd0c8f20d2f65:::Львів:::We are looking for a full-time job at a Senior Python (Full-stack) developer who loves to build great products. We want someone who is up for taking on new challenges, keen on learning new skills, willing to compromise and not afraid to fail. If you love challenges and solving problems this is for you. 
 
  Tasks 
 
 
 Duties:
- вЂ” Design, build and maintain efficient, reusable, and reliable Python code. 
+ — Design, build and maintain efficient, reusable, and reliable Python code. 
 
- вЂ” Integration of user-facing elements with server-side logic. 
+ — Integration of user-facing elements with server-side logic. 
 
- вЂ” Developing and documenting software design. 
+ — Developing and documenting software design. 
 
- вЂ” Identify bottlenecks and bugs, and devise solutions to these problems. 
+ — Identify bottlenecks and bugs, and devise solutions to these problems. 
 
- вЂ” Help to maintain code quality and its automatization. 
+ — Help to maintain code quality and its automatization. 
 
- вЂ” Working with various third party APIs to automate processes. 
+ — Working with various third party APIs to automate processes. 
 
- вЂ” Contribute to all phases of the development lifecycle. 
+ — Contribute to all phases of the development lifecycle. 
 
- вЂ” Drive continuous adoption and integration of new technologies. 
+ — Drive continuous adoption and integration of new technologies. 
 
  Requirements 
 
 
 We hope you have:
- вЂ” At least 5 years of work experience as a Back-end Developer or as a Full-stack Developer. 
+ — At least 5 years of work experience as a Back-end Developer or as a Full-stack Developer. 
 
- вЂ” You have solid knowledge and production experience with Python. 
+ — You have solid knowledge and production experience with Python. 
 
- вЂ” You have production experience with Solr, Pylons, Boostrap, jQuery or CSS a plus 
+ — You have production experience with Solr, Pylons, Boostrap, jQuery or CSS a plus 
 
- вЂ” You have experience PostgreSQL. 
+ — You have experience PostgreSQL. 
 
- вЂ” You are comfortable working with Git. 
+ — You are comfortable working with Git. 
 
- вЂ” You can freely read the documentation in English and chat with team members. 
+ — You can freely read the documentation in English and chat with team members. 
 
 
 Like a plus:
- вЂ” You work with JS. 
+ — You work with JS. 
 
- вЂ” Enthusiasm for Open Source, Open Data, and Open Knowledge 
+ — Enthusiasm for Open Source, Open Data, and Open Knowledge 
 
- вЂ” You have a structured, proactive working style. 
+ — You have a structured, proactive working style. 
 
- вЂ” You are a self-starter and an entrepreneurial mind but are a team player. 
+ — You are a self-starter and an entrepreneurial mind but are a team player. 
 
 
 We offer:
- вЂ” Collaboration with highly motivated, talented and inspirational team members. 
+ — Collaboration with highly motivated, talented and inspirational team members. 
 
- вЂ” Challenging and interesting software projects, not just tedious routine work. 
+ — Challenging and interesting software projects, not just tedious routine work. 
 
- вЂ” Extensive remote work possibilities and flexible working schedules. 
+ — Extensive remote work possibilities and flexible working schedules. 
 
- вЂ” Unforgettable team buildings in different countries. 
+ — Unforgettable team buildings in different countries. 
 
- вЂ” Business trips abroad. 
+ — Business trips abroad. 
 
- вЂ” Educational programs in English, as well as paid seminars, masterclasses, trainings, and world-class conferences."
-Senior Splunk Developer,PROBEGIN,https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp4ebf2fss000&fromjk=a97ccba0c3f5e532,Р›СЊРІС–РІ,"
-We are seeking a Senior Splunk Developer to join our Data Science Division. As part of the design and implementation effort, the Splunk developer will participate in various aspects of the implementations, including using Splunk to develop a proof of concept where legacy information systems are migrated to Splunk Enterprise. The Senior Splunk Developer will have to model data from several legacy and/or modern applications before ingesting the data into Splunk. The Splunk Developer will work closely with government personnel and other professionals in a team environment.
- The Candidate must be able to:
+ — Educational programs in English, as well as paid seminars, masterclasses, trainings, and world-class conferences.
+Salesforce switcher:::Sparkybit:::https://ua.indeed.com/cmp/Sparkybit?campaignid=mobvjcmp&from=mobviewjob&tk=1grnukeorjv5g800&fromjk=a90a081139f9eaf8:::Львів:::
 
- Design and develop an вЂњend to endвЂќ electronic transaction visibility, including large scale processing, integration, and analysis of system logs and databases in Splunk.
- Develop statistical behavior models, and provide support for the development of machine learning approaches.
- Develop visualization dashboards and indicators that identify anomalous activities.
- Assist with the development of project status briefings and dashboards for IRS executives
- Interact directly with client project team members and operational staff.
- Familiarity with the configuration file options that are not available through the GUI.
- A sophisticated understanding of Splunk вЂњSearchвЂќ language
- A deep understanding of Splunk Dashboards, Reports, Lookup Tables, and Summary Indexes.
- Knowledge of how to customize Dashboards via the XML source.
- Awareness of the Common Information Model and how to apply it directly and indirectly to data feeds.
- Expert-level capabilities with regular expression.
- Experience with Splunk Apps (both using and making).
- Intermediate to Expert -level capability with the Python Scripting Language.
- Awareness of how to handle null data and its impact on statistical analysis
 
+
+
+Lviv
+ Dnipro
+ Kharkiv
+
+
+
+
+
+
+ What knowledge and experience we expect from our candidate:
+
+ at least 1 year of commercial experience as a backend developer (Java, C #, C ++, Python, Node.JS) OOP, SOLID, Design Patterns
+ experience with databases (SQL, MySQL, MongoDB, etc.)
+ knowledge of algorithms and data structures
+ ability to work in a team, understanding of software development processes
+ English level — intermediate and higher.
+
+ Will be a plus:
+
+ experience in frontend development (Javascript, React, Angular, etc.)
+ experience with Salesforce
+ Salesforce certifications.
+
+ We offer:
+
+ work as PE (the company has an accountant who deals with these\ questions), tax compensation
+ 18 working days of paid vacation, 5 days of sick leave
+ cozy office in the city center
+ a fully equipped workplace in the office;
+ professional growth
+ access to internal English courses
+ participation in conferences and educational events, with compensation from 50% to 100% of the cost
+ social corporate activities and events.
+
+ About Salesforce switcher program at Sparkybit:
+
+ This is a full-time position for a junior/middle developer.
+ Salesforce switcher program is an enhanced, individual training supervised by a dedicated experienced developer/mentor, for developers with commercial experience.
+ The training period for a full transition to the Salesforce position is up to 2 months and depends on the speed of learning the material and completing practical tasks.
+ After completing the program, developer passes the Salesforce Certified Platform Developer I certification, paid by the company.
+
+ About Salesforce in the company:
+
+ Since 2017, one of the main areas of work of Sparkybit — is Salesforce.
+ The target market is Western Europe and the USA.
+ The company’s Salesforce department is a strong development team. Some of its specialists came to Salesforce from other technologies, and some took the Salesforce trainee course at the company.
+ Each employee passes international certifications, develops soft skills, improves English, constantly develops in new technologies — both in Salesforce direction (Apex, Visualforce, Aura, Lightning Web Components, Salesforce Community, Pardot, etc.) and in software development in general.
+
+ What is Salesforce?
+ Salesforce is an ecosystem for developing enterprise applications of various levels of complexity, which is a close combination of PaaS, SaaS, and cloud computing. The system consists of many components, the main ones of which are:
+
+ Force.com — self-hosted application development platform. Apex, an object-oriented programming language, is used as a means for developing the backend part. For the frontend parts, both a Salesforce.com-based interface development tool and any javascript framework (ReactJS, AngularJS, etc.) can be used.
+ Salesforce.com is the leading CRM system in the market, which can act as a tool for administering the entire Salesforce system, and as a visual interface for applications developed in the Force.com environment.
+ Database.com is a cloud-based relational database, modeled on Oracle Database.
+
+ Below is a list of resources (in Russian) to get more information on getting started with Salesforce:
+
+ An article about getting started with Salesforce;\
+ An article about the first 6 months in Salesforce — from the Salesforce program’s ex-trainee experience;\
+ “Get to know Salesforce” video.
+
+ These materials were created on the basis of the Ukrainian Salesforce community.
+
+
+
+
+Strong Middle Node.js Developer:::PROBEGIN:::https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnukicjjv4r800&fromjk=be499f345adea83f:::Львів:::
+Our client – an experienced software development company, working for industry leaders on innovative, dynamic and interesting projects. The project is an broadly developed, high load and high volume system, you will be participating into the development of this very dynamic and challenging projects across different competences. The teams is multi-disciplined and you will work together. Teams will be changed after completion of each project, so you will always have challenging work. Working on Projects in several industry fields, with the latest technology possible, big data sets in a challenging environment.
  Requirements:
 
- Bachelor/Master in IT, Math or Computer Science
- At least two years of experience in security applications and systems related audit and accountability
- Splunk expertise with strong information security experience and have mastered the art of working with regular expressions to effectively extract key tokens of data into meaningful fields.
- Experience with relational databases is a plus.
- Experience with application servers being used for the extraction, transformation, and loading (ETL) of operational logs and individuals audit data deposited in a staging area for generating audit analysis reports.
- Experience with AMDAS on MQ Series will be critical. Cyber security experience.
- Familiarity with the configuration file options that are not available through the GUI.
- A sophisticated understanding of Splunk вЂњSearchвЂќ language. A deep understanding of Splunk Dashboards, Reports, Lookup Tables, and Summary Indexes.
- Knowledge of how to customize Dashboards via the XML source.
- Awareness of the Common Information Model and how to apply it directly and indirectly to data feeds.
- Expert-level capabilities with regular expression.
- Experience with Splunk Apps (both using and making).
- Intermediate to Expert -level capability with the Python Scripting Language.
- Awareness of how to handle null data and its impact on statistical analysis.
- Experience with reviewing, analyzing and coordinating requirements for ingesting auditable and actionable events into Splunk.
- Proven ability to work on and with teams comprised of the primary client and other client stakeholders dispersed across geographical sites.
- Excellent verbal and written communication skills.
-
- We will offer you:
-
- Experienced, open-minded, professional teams
- Excellent salary and benefits package
- Possibility for Certifications and professional growth
- Working with and for top 100 companies
- Fresh and Tasty Coffee, Tea and Cookies
- Courses of English
- Five-days working week
- Health Insurance & Multisport Program
- Flexible Office hours, depending on the project
- Paid vacation (21 working days) and sick leave
- Career Planning, Development and Training
- Lots of company activities
-
- Interested to join this cool and innovative project? Send us your CV and motivation letter to hr@probegin.com
-"
-Strong Middle Node.js Developer,PROBEGIN,https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp4hv3jv7u800&fromjk=be499f345adea83f,Р›СЊРІС–РІ,"
-Our client вЂ“ an experienced software development company, working for industry leaders on innovative, dynamic and interesting projects. The project is an broadly developed, high load and high volume system, you will be participating into the development of this very dynamic and challenging projects across different competences. The teams is multi-disciplined and you will work together. Teams will be changed after completion of each project, so you will always have challenging work. Working on Projects in several industry fields, with the latest technology possible, big data sets in a challenging environment.
- Requirements:
-
- You have 2 вЂ“ 4 years IT professional, working as Python, PHP or Javascript Developer
+ You have 2 – 4 years IT professional, working as Python, PHP or Javascript Developer
  At least 1 year Experience in Node.js, more experience is better
  Experience with Typescript
  Understanding of HTML, CSS, XML
@@ -1171,8 +1185,108 @@ Our client вЂ“ an experienced software development company, working for industry
  Lots of company activities
 
  Interested to join this cool and innovative project? Send us your CV and motivation letter to hr@probegin.com
-"
-Embedded Developer,Pixels Matter,https://ua.indeed.com/cmp/Pixels-Matter?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp4liqk98h801&fromjk=7895b4ecc1fdaa89,Р›СЊРІС–РІ,"
+
+API and DevOps Developer:::ZeyOS:::https://ua.indeed.com/cmp/Zeyos?campaignid=mobvjcmp&from=mobviewjob&tk=1grnukm0ijv5q800&fromjk=aaf10f06d9192e9d:::Львів:::
+
+
+
+
+    Worldwide
+   
+
+We are looking for an integration and DevOps expert who helps us to maintain ZeyOS in a live environment. This does not only involve creating and mainting our own APIs but also utilizing external APIs to integrate ZeyOS with other products.
+ Tasks and responsibilities:
+
+Maintain our various APIs, especially the ZeyOS REST API (http://docs.zeyos.apiary.io/)
+Develop API clients for various runtimes (JavaScript, Java, PHP, Python, etc.)
+Write demos and usage examples
+Create Integrations between ZeyOS and other applications
+Toolsmithing automation tools and scripts
+Maintaining and monitoring server operations
+
+Qualifications:
+
+Good english writing skills for technical documentation
+Eye for detail and consistency
+Experience with APIs in general (REST, SOAP, etc.)
+Excellent Linux skills, preferrably with Ubuntu/Debian
+Broad development skillset with various runtimes
+Skills with DevOps services such as IBM Bluemix or Dockers are a plus
+
+
+
+
+
+About Us
+ZeyOS is a software company originally founded in Munich 2009. We offer a platform for small businesses that unifies all the features you care about in one brilliant and intuitive platform - from e-mail and calendaring to inventory management and billing. We help growing companies that are stuck in a web of mesh-up and makeshift solutions. We are doing for businesses, what Apple did for consumers: Offering a truly integrated eco system for business apps that is as easy to use as iTunes, yet powerful and extensible in order to solve today's business problems.
+
+
+Location
+Lviv: iHub Lviv Zamknena St 9 Lviv Oblast Ukraine 
+Munich: Bretonischer Ring 5 85630 Grasbrunn Germany 
+San Francisco: 720 University Ave Palo Alto, CA 94301 United States
+
+
+
+
+
+Senior Splunk Developer:::PROBEGIN:::https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnukpjk2h54000&fromjk=a97ccba0c3f5e532:::Львів:::
+We are seeking a Senior Splunk Developer to join our Data Science Division. As part of the design and implementation effort, the Splunk developer will participate in various aspects of the implementations, including using Splunk to develop a proof of concept where legacy information systems are migrated to Splunk Enterprise. The Senior Splunk Developer will have to model data from several legacy and/or modern applications before ingesting the data into Splunk. The Splunk Developer will work closely with government personnel and other professionals in a team environment.
+ The Candidate must be able to:
+
+ Design and develop an “end to end” electronic transaction visibility, including large scale processing, integration, and analysis of system logs and databases in Splunk.
+ Develop statistical behavior models, and provide support for the development of machine learning approaches.
+ Develop visualization dashboards and indicators that identify anomalous activities.
+ Assist with the development of project status briefings and dashboards for IRS executives
+ Interact directly with client project team members and operational staff.
+ Familiarity with the configuration file options that are not available through the GUI.
+ A sophisticated understanding of Splunk “Search” language
+ A deep understanding of Splunk Dashboards, Reports, Lookup Tables, and Summary Indexes.
+ Knowledge of how to customize Dashboards via the XML source.
+ Awareness of the Common Information Model and how to apply it directly and indirectly to data feeds.
+ Expert-level capabilities with regular expression.
+ Experience with Splunk Apps (both using and making).
+ Intermediate to Expert -level capability with the Python Scripting Language.
+ Awareness of how to handle null data and its impact on statistical analysis
+
+ Requirements:
+
+ Bachelor/Master in IT, Math or Computer Science
+ At least two years of experience in security applications and systems related audit and accountability
+ Splunk expertise with strong information security experience and have mastered the art of working with regular expressions to effectively extract key tokens of data into meaningful fields.
+ Experience with relational databases is a plus.
+ Experience with application servers being used for the extraction, transformation, and loading (ETL) of operational logs and individuals audit data deposited in a staging area for generating audit analysis reports.
+ Experience with AMDAS on MQ Series will be critical. Cyber security experience.
+ Familiarity with the configuration file options that are not available through the GUI.
+ A sophisticated understanding of Splunk “Search” language. A deep understanding of Splunk Dashboards, Reports, Lookup Tables, and Summary Indexes.
+ Knowledge of how to customize Dashboards via the XML source.
+ Awareness of the Common Information Model and how to apply it directly and indirectly to data feeds.
+ Expert-level capabilities with regular expression.
+ Experience with Splunk Apps (both using and making).
+ Intermediate to Expert -level capability with the Python Scripting Language.
+ Awareness of how to handle null data and its impact on statistical analysis.
+ Experience with reviewing, analyzing and coordinating requirements for ingesting auditable and actionable events into Splunk.
+ Proven ability to work on and with teams comprised of the primary client and other client stakeholders dispersed across geographical sites.
+ Excellent verbal and written communication skills.
+
+ We will offer you:
+
+ Experienced, open-minded, professional teams
+ Excellent salary and benefits package
+ Possibility for Certifications and professional growth
+ Working with and for top 100 companies
+ Fresh and Tasty Coffee, Tea and Cookies
+ Courses of English
+ Five-days working week
+ Health Insurance & Multisport Program
+ Flexible Office hours, depending on the project
+ Paid vacation (21 working days) and sick leave
+ Career Planning, Development and Training
+ Lots of company activities
+
+ Interested to join this cool and innovative project? Send us your CV and motivation letter to hr@probegin.com
+
+Embedded Developer:::Pixels Matter:::https://ua.indeed.com/cmp/Pixels-Matter?campaignid=mobvjcmp&from=mobviewjob&tk=1grnukta9jtsr800&fromjk=7895b4ecc1fdaa89:::Львів:::
 
 
 
@@ -1388,196 +1502,88 @@ Position Objective
 
 
 
-"
-API and DevOps Developer,ZeyOS,https://ua.indeed.com/cmp/Zeyos?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp4p7disv8801&fromjk=aaf10f06d9192e9d,Р›СЊРІС–РІ,"
 
+Ruby/ Python Developer – Infrastructure Specialist:::Keel Solution:::https://ua.indeed.com/cmp/Keel-Solution?campaignid=mobvjcmp&from=mobviewjob&tk=1grnul0vajv4r800&fromjk=65a05255daa830e6:::Львів:::
 
+Location: Lviv, Ukraine (Hybrid)
+ Contract Type: Full-time
+ About the job
+ ABOUT US:
+ Keel is an international company with headquarters in Copenhagen, Denmark and operational office in Lviv, Ukraine. We offer technological solutions for the Energy sector and Utilities. Our clients are Fortune-500 Energy companies that are technology leaders within their sectors.
+ Our core values:
+ Knowledge: Our expertise combines the knowledge of a team of professionals who form a solid core of the company.
+ Engagement: Team drive, commitment, curiosity and willingness to learn are the key factors driving our success.
+ Empowerment: Our staff is our main asset, and we realize that they help us to find methods for achieving our goals.
+ Loyalty: We are always loyal to each other and build strong relationships with our customers.
+ What it’s Like to Work with Us:
+ Providing services for our customers gives us the opportunity to work with the cutting-edge technologies and state-of-the-art industrial equipment and assets. This helps to get a variety of learning and development opportunities as well as professional growth for our employees. Working with us means contributing to innovative and challenging projects that are driving future energy transformation across the globe.
+ ABOUT YOU:
+ Education:
 
+ Bachelor’s degree or higher education in Computer science, Software engineering or equivalent
 
-    Worldwide
-   
+ Professional experience:
 
-We are looking for an integration and DevOps expert who helps us to maintain ZeyOS in a live environment. This does not only involve creating and mainting our own APIs but also utilizing external APIs to integrate ZeyOS with other products.
- Tasks and responsibilities:
+ 2+ years of practical experience with agile software deployment, depth knowledge on virtualization, server operating systems and scripting
+ Experience working in SAFe (Enterprise) is beneficial
 
-Maintain our various APIs, especially the ZeyOS REST API (http://docs.zeyos.apiary.io/)
-Develop API clients for various runtimes (JavaScript, Java, PHP, Python, etc.)
-Write demos and usage examples
-Create Integrations between ZeyOS and other applications
-Toolsmithing automation tools and scripts
-Maintaining and monitoring server operations
+ Foreign Languages:
 
-Qualifications:
+ Upper Intermediate English
 
-Good english writing skills for technical documentation
-Eye for detail and consistency
-Experience with APIs in general (REST, SOAP, etc.)
-Excellent Linux skills, preferrably with Ubuntu/Debian
-Broad development skillset with various runtimes
-Skills with DevOps services such as IBM Bluemix or Dockers are a plus
+ Competencies:
 
+ Chef (Ruby)
+ Ansible (Python)
+ PowerShell
+ Vmware/Hyper-V
 
+ Tasks and Responsibilities:
 
+ Automation of installation through Chef, Ansible, PowerShell and other tools
+ Component owner tasks – test, verification, documentation and release of firmware and software
+ Creating documentation and training material
+ Participation in requirement clarification, effort estimation and design sessions
 
+ Personal skills:
 
-About Us
-ZeyOS is a software company originally founded in Munich 2009. We offer a platform for small businesses that unifies all the features you care about in one brilliant and intuitive platform - from e-mail and calendaring to inventory management and billing. We help growing companies that are stuck in a web of mesh-up and makeshift solutions. We are doing for businesses, what Apple did for consumers: Offering a truly integrated eco system for business apps that is as easy to use as iTunes, yet powerful and extensible in order to solve today's business problems.
-
-
-Location
-Lviv: iHub Lviv Zamknena St 9 Lviv Oblast Ukraine 
-Munich: Bretonischer Ring 5 85630 Grasbrunn Germany 
-San Francisco: 720 University Ave Palo Alto, CA 94301 United States
-
-
-
-
-"
-Senior Node.js Developer,PROBEGIN,https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp4svv2d60000&fromjk=f4985b37acc561c7,Р›СЊРІС–РІ,"
-Our client вЂ“ an experienced software development company, working for industry leaders on innovative, dynamic and interesting projects. The project is an broadly developed, high load and high volume system, you will be participating into the development of this very dynamic and challenging projects across different competences. The teams is multi-disciplined and you will work together. Teams will be changed after completion of each project, so you will always have challenging work.
- Requirements:
-
- You have 3 вЂ“ 5 years IT professional, working as Python, PHP or Javascript Developer
- At least 1 year Experience in Node.js, more experience is better
- Experience with Typescript
- Understanding of HTML, CSS, XML
- You prefer node.js but can also handle React from time to time.
- Understanding MariaDB
- Clean and Clear Coding
- Good understanding of MVC
- Strong work drive, drive to perform and grow
- Good knowledge and experience of building OOP
- Working experience with the following Tools: Git, JIRA, Confluence
- Experience with and knowledge of Microservice architecture
- 3+ years of business project experience
- Professional attitude and work ethics
- Good level of English
-
- We will offer you:
-
- Experienced, open-minded, professional teams
- Unique working environment where you communicate and work directly with client
- Nice work environment where you work with Friends
- Competitive salary
- Excellent benefits
- Fresh and Tasty Coffee, Tea and Cookies
- Courses of English
- Five-days working week
- Health Insurance & Multisport Program
- Flexible Office hours, depending on the project
- Paid vacation (21 working days) and sick leave
- Career Planning, Development and Training
- Lots of company activities
-
- Interested to join this cool and innovative project? Send us your CV and motivation letter to hr@probegin.com
-"
-Embedded Developer (Malevich),Ajax Systems,https://ua.indeed.com/cmp/AJAX-Systems?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp50jfjtth802&fromjk=8c89a118a0fdf533,Р›СЊРІС–РІ,"Ajax Systems вЂ” СЂРѕР·СЂРѕР±РЅРёРє С– РІРёСЂРѕР±РЅРёРє СЃРёСЃС‚РµРј Р±РµР·РїРµРєРё Ajax С–Р· РјРѕР¶Р»РёРІРѕСЃС‚СЏРјРё СЂРѕР·СѓРјРЅРѕРіРѕ РґРѕРјСѓ. Р¦Рµ РїРѕРЅР°Рґ 50 РїСЂРёСЃС‚СЂРѕС—РІ, РјРѕР±С–Р»СЊРЅС– С‚Р° РґРµСЃРєС‚РѕРїРЅС– Р·Р°СЃС‚РѕСЃСѓРЅРєРё, СЃРµСЂРІРµСЂРЅР° С–РЅС„СЂР°СЃС‚СЂСѓРєС‚СѓСЂР°. РЈ Р»С–РЅС–Р№С†С– Ajax РїСЂРµРґСЃС‚Р°РІР»РµРЅРѕ С†РµРЅС‚СЂР°Р»С– РєРµСЂСѓРІР°РЅРЅСЏ С–Р· РІР»Р°СЃРЅРѕСЋ RTOS (OS Malevich), РґР°С‚С‡РёРєРё СЂСѓС…Сѓ, РІС–РґС‡РёРЅРµРЅРЅСЏ, Р·Р°С…РёСЃС‚Сѓ РІС–Рґ Р·Р°С‚РѕРїР»РµРЅРЅСЏ С‚Р° РїРѕР¶РµР¶РЅС– РґР°С‚С‡РёРєРё, РІСѓР»РёС‡РЅС– Р№ РґРѕРјР°С€РЅС– СЃРёСЂРµРЅРё, С‚СЂРёРІРѕР¶РЅР° РєРЅРѕРїРєР° Р· С„СѓРЅРєС†С–С”СЋ РєРµСЂСѓРІР°РЅРЅСЏ РїСЂРёР»Р°РґР°РјРё, СЂРѕР·СѓРјРЅС– СЂРѕР·РµС‚РєРё С‚Р° СЂРµР»Рµ.
-Р©РѕСЂРѕРєСѓ РјРё РґРµРјРѕРЅСЃС‚СЂСѓС”РјРѕ РєСЂР°С‚РЅРµ Р·СЂРѕСЃС‚Р°РЅРЅСЏ СЏРє Сѓ С‡РёСЃРµР»СЊРЅРѕСЃС‚С– РєРѕРјР°РЅРґРё, С‚Р°Рє С– РІ РєС–Р»СЊРєРѕСЃС‚С– РєРѕСЂРёСЃС‚СѓРІР°С‡С–РІ Сѓ РІСЃСЊРѕРјСѓ СЃРІС–С‚С–. Р’РёСЂРѕР±РЅРёС†С‚РІРѕ Ajax Systems РЅР°Р»С–С‡СѓС” РґРІР° Р·Р°РІРѕРґРё, С‰Рѕ СЂРѕР·С‚Р°С€РѕРІР°РЅС– РІ РЈРєСЂР°С—РЅС–. РўР°РєРѕР¶ Сѓ РЅР°СЃ С‡РѕС‚РёСЂРё R&D-РѕС„С–СЃРё: Сѓ РљРёС”РІС–, РҐР°СЂРєРѕРІС–, Р›СЊРІРѕРІС– С‚Р° Р’С–РЅРЅРёС†С–. Р›РѕРєР°Р»СЊРЅС– РєРѕРјР°РЅРґРё РїСЂРѕРґР°Р¶С–РІ С” Сѓ Р’РµР»РёРєРѕР±СЂРёС‚Р°РЅС–С—, Р†С‚Р°Р»С–С—, Р†СЃРїР°РЅС–С—, РџРѕСЂС‚СѓРіР°Р»С–С—, РќС–РјРµС‡С‡РёРЅС–, РџРѕР»СЊС‰С–, РќРѕСЂРІРµРіС–С—, Р СѓРјСѓРЅС–С—, РўСѓСЂРµС‡С‡РёРЅС–, РћРђР• С‚Р° РџРђР .
-Р”Р°С‚С‡РёРєРё Ajax РѕС…РѕСЂРѕРЅСЏСЋС‚СЊ РїРѕРЅР°Рґ 1 000 000 РєРѕСЂРёСЃС‚СѓРІР°С‡С–РІ Сѓ Р±С–Р»СЊС€ РЅС–Р¶ 130 РєСЂР°С—РЅР°С… СЃРІС–С‚Сѓ.
-Р—Р° СЂРѕР·СЂРѕР±РєСѓ РїСЂРёСЃС‚СЂРѕС—РІ Сѓ Ajax РІС–РґРїРѕРІС–РґР°С” R&D-РґРµРїР°СЂС‚Р°РјРµРЅС‚, СЏРєРёР№ СЃРєР»Р°РґР°С”С‚СЊСЃСЏ Р· С‡РѕС‚РёСЂСЊРѕС… РєРѕРјР°РЅРґ: System, Devices, Automation С‚Р° QA.РљРѕРјР°РЅРґР° System СЂРѕР±РёС‚СЊ РїСЂРёСЃС‚СЂРѕС— СЂРѕР·СѓРјРЅРёРјРё, РїРµСЂРµС‚РІРѕСЂСЋСЋС‡Рё С—С… РЅР° РїРѕРІРЅРѕС†С–РЅРЅРёР№ IoT. РЈС‡Р°СЃРЅРёРєРё РєРѕРјР°РЅРґРё СЃС‚РІРѕСЂРёР»Рё Р№ СЂРѕР·РІРёРІР°СЋС‚СЊ OS Malevich (РјРѕРґСѓР»СЊРЅР° RTOS РґР»СЏ СЂС–Р·РЅРёС… Р°РїР°СЂР°С‚РЅРёС… РїР»Р°С‚С„РѕСЂРј) С– С…РјР°СЂРЅРёР№ СЃРµСЂРІС–СЃ Ajax Cloud (Java 12, AWS, Akka). Р”Р»СЏ РєРµСЂСѓРІР°РЅРЅСЏ, РѕР±СЃР»СѓРіРѕРІСѓРІР°РЅРЅСЏ С‚Р° РјРѕРЅС–С‚РѕСЂРёРЅРіСѓ СЃРёСЃС‚РµРјРё РєРѕСЂРёСЃС‚СѓРІР°С‡Р°РјРё, С–РЅСЃС‚Р°Р»СЏС‚РѕСЂР°РјРё Р№ С–РЅР¶РµРЅРµСЂР°РјРё РѕС…РѕСЂРѕРЅРЅРёС… РєРѕРјРїР°РЅС–Р№ СЂРѕР·СЂРѕР±Р»РµРЅС– Р·Р°СЃС‚РѕСЃСѓРЅРєРё РґР»СЏ iOS (Objective-C, Swift), Android (Java, Kotlin), Windows/macOS (Python, QT, QML).
-РЈ РЅР°СЃ Р±Р°РіР°С‚Рѕ РїСЂРѕРїСЂС–С”С‚Р°СЂРЅРёС… С‚РµС…РЅРѕР»РѕРіС–Р№. РўР°Рє, РјРё РІРїСЂРѕРІР°РґР¶СѓС”РјРѕ РІ Р”РќРљ РїСЂРѕРґСѓРєС‚Сѓ РјРѕР¶Р»РёРІРѕСЃС‚С– Р№ С‚РµС…РЅРѕР»РѕРіС–С—, РєРѕРїС–СЋРІР°РЅРЅСЏ СЏРєРёС… С” РЅР°СЃС‚С–Р»СЊРєРё С‚СЂСѓРґРѕРјС–СЃС‚РєРёРј РїСЂРѕС†РµСЃРѕРј, С‰Рѕ РїСЂРѕСЃС‚Рѕ РЅРµ РјР°С” СЃРµРЅСЃСѓ. РўР°РєРёРјРё СЂРѕР·СЂРѕР±РєР°РјРё СЃС‚Р°Р»Рё СЂР°РґС–РѕРїСЂРѕС‚РѕРєРѕР»Рё Jeweller С– Wings, РѕРїРµСЂР°С†С–Р№РЅР° СЃРёСЃС‚РµРјР° OS Malevich, Р°Р»РіРѕСЂРёС‚РјРё РґР°С‚С‡РёРєС–РІ С– Р±Р°РіР°С‚Рѕ С–РЅС€РѕРіРѕ. РЎР°РјРµ РІ РєРѕРјР°РЅРґСѓ СЂРѕР·СЂРѕР±РєРё OS Malevich РјРё С€СѓРєР°С”РјРѕ Embedded-С–РЅР¶РµРЅРµСЂС–РІ, СЏРєС– РіРѕС‚РѕРІС– РїРѕРєСЂР°С‰РёС‚Рё РЅР°С€Сѓ СЃРёСЃС‚РµРјСѓ СЂР°Р·РѕРј Р· РЅР°РјРё
-Р’РёРјРѕРіРё:
-РґРѕСЃРІС–Рґ СЂРѕР·СЂРѕР±РєРё РєРѕРјРµСЂС†С–Р№РЅРёС… РїСЂРѕРґСѓРєС‚С–РІ IoT РІС–Рґ 2-С… СЂРѕРєС–РІ;
-РґРѕСЃРІС–Рґ РЅР°РїРёСЃР°РЅРЅСЏ РџР— РїС–Рґ FreeRTOS, TIrtos, etc Р°Р±Рѕ РїС–Рґ baremetal;
-РґРѕСЃРІС–Рґ СЂРѕР±РѕС‚Рё Р· РїСЂРѕС†РµСЃРѕСЂР°РјРё STM32;
-РІС–РґРјС–РЅРЅРµ Р·РЅР°РЅРЅСЏ embedded coding techniques, С–РЅС‚РµСЂС„РµР№СЃС–РІ (SPI, I2C, UART) С‚Р° РїС–РґСЃРёСЃС‚РµРј;
-РґРѕСЃРІС–Рґ СЂРѕР±РѕС‚Рё Р· Р°СЂС…С–С‚РµРєС‚СѓСЂРѕСЋ ARM Cortex;
-РІРїРµРІРЅРµРЅС– Р·РЅР°РЅРЅСЏ РјРѕРІРё РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ C;
-СЂРѕР·СѓРјС–РЅРЅСЏ РѕРїРµСЂР°С†С–Р№РЅРёС… СЃРёСЃС‚РµРј: РґРѕСЃРІС–Рґ РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ Сѓ embedded Linux Р°Р±Рѕ РїРѕРґС–Р±РЅРёС… РІР±СѓРґРѕРІР°РЅРёС… РѕРїРµСЂР°С†С–Р№РЅРёС… СЃРёСЃС‚РµРјР°С… (СЂРѕР·СѓРјС–РЅРЅСЏ РїРѕРЅСЏС‚СЊ РїРѕС‚РѕРєС–РІ, Р·Р°РґР°С‡, РЅР°Рј РІР°Р¶Р»РёРІРёР№ РґРѕСЃРІС–Рґ Р· Real-time operating system);
-РґРѕСЃРІС–Рґ РЅР°Р»Р°РґРєРё С‚Р° РІР°Р»С–РґР°С†С–С— СЃРєР»Р°РґРЅРёС… embedded system С‚Р° СЂРѕР±РѕС‚Р° Р· РїСЂРѕС‚РѕРєРѕР»РѕРј СЃС‚РµРєСѓ
-Р‘СѓРґРµ РїР»СЋСЃРѕРј:
-РґРѕСЃРІС–Рґ РїСЂРѕРіСЂР°РјСѓРІР°РЅРЅСЏ RF-РјРѕРґСѓР»С–РІ С‚Р° СЂРѕР·СЂРѕР±РєРё Р±РµР·РґСЂРѕС‚РѕРІРёС… СЂС–С€РµРЅСЊ РґР»СЏ РЅРёР·СЊРєРѕРіРѕ РµРЅРµСЂРіРѕСЃРїРѕР¶РёРІР°РЅРЅСЏ;
-Р·РЅР°РЅРЅСЏ СЃРєСЂРёРїС‚РѕРІРёС… РјРѕРІ (Python, Bash)
-РјСѓР»СЊС‚РёР·Р°РґР°С‡РЅС–СЃС‚СЊ, РјРѕР¶Р»РёРІС–СЃС‚СЊ РµС„РµРєС‚РёРІРЅРѕ С– С€РІРёРґРєРѕ РїРµСЂРµРєР»СЋС‡Р°С‚РёСЃСЊ РјС–Р¶ СЂС–Р·РЅРёРјРё РїСЂРѕРµРєС‚Р°РјРё;
-РѕСЃРЅРѕРІРё РµР»РµРєС‚СЂРѕРЅС–РєРё: РЅР°С€С– Embedded С–РЅР¶РµРЅРµСЂРё РІРёРєРѕСЂРёСЃС‚РѕРІСѓСЋС‚СЊ РѕСЃС†РёР»РѕРіСЂР°С„Рё, Р»РѕРіС–С‡РЅС– Р°РЅР°Р»С–Р·Р°С‚РѕСЂРё С‚Р° РјСѓР»СЊС‚РёРјРµС‚СЂРё
-РћР±РѕРІвЂ™СЏР·РєРё:
-Р°РєС‚РёРІРЅР° СѓС‡Р°СЃС‚СЊ Сѓ РїРѕРІРЅРѕРјСѓ С†РёРєР»С– СЂРѕР·СЂРѕР±РєРё РџР— РґР»СЏ embedded: РїСЂРѕРµРєС‚СѓРІР°РЅРЅСЏ, РІРїСЂРѕРІР°РґР¶РµРЅРЅСЏ, СЂРµРІвЂ™СЋ РєРѕРґСѓ, РґРѕРєСѓРјРµРЅС‚СѓРІР°РЅРЅСЏ, С‚РµСЃС‚СѓРІР°РЅРЅСЏ С‚Р° РІР°Р»С–РґР°С†С–СЏ;
-Р±Р°Р¶Р°РЅРЅСЏ С– РЅР°РїРѕР»РµРіР»РёРІС–СЃС‚СЊ Р·РЅР°С…РѕРґРёС‚Рё СЃРїСЂР°РІР¶РЅС” РґР¶РµСЂРµР»Рѕ РїСЂРѕР±Р»РµРјРё, С‰Рѕ РїСЂРёР№С€Р»Р° СЏРє РІС–Рґ РєРѕСЂРёСЃС‚СѓРІР°С‡С–РІ, С‚Р°Рє С– РІС–Рґ РєРѕРјР°РЅРґРё QA
-СЃРїС–РІРїСЂР°С†СЏ Р· С–РЅР¶РµРЅРµСЂР°РјРё-РµР»РµРєС‚СЂРёРєР°РјРё РґР»СЏ РїРµСЂРµРІС–СЂРєРё РЅРѕРІРѕРіРѕ РѕР±Р»Р°РґРЅР°РЅРЅСЏ Р· С‚РѕС‡РєРё Р·РѕСЂСѓ software team;
-РјРѕРґРµСЂРЅС–Р·Р°С†С–СЏ С„СЂРµР№РјРІРѕСЂРєР° РїС–Рґ РЅРѕРІС– РїСЂРёСЃС‚СЂРѕС—, СѓС‡Р°СЃС‚СЊ Сѓ СЂРµР»С–Р·Р°С… РћРЎ Malevich;
-СЂРѕР±РѕС‚Р° Р· РІРёСЃРѕРєРёРјРё С‚РµС…РЅС–С‡РЅРёРјРё РІРёРјРѕРіР°РјРё РґРѕ РґРѕСЃР»С–РґР¶РµРЅСЊ С‚Р° СЂРѕР·СЂРѕР±РѕРє РЅРѕРІРѕРіРѕ С„СѓРЅРєС†С–РѕРЅР°Р»Сѓ;
-СѓС‡Р°СЃС‚СЊ Сѓ РїСЂРёР№РЅСЏС‚С‚С– РґРёР·Р°Р№РЅРµСЂСЃСЊРєРёС… СЂС–С€РµРЅСЊ С‰РѕРґРѕ СЂРѕР·СЂРѕР±РєРё РІРёСЃРѕРєРѕРїСЂРѕРґСѓРєС‚РёРІРЅРёС… С‚Р° РЅР°РґС–Р№РЅРёС… embedded СЃРёСЃС‚РµРј;
-СЃС‚РІРѕСЂРµРЅРЅСЏ РјРѕРґСѓР»СЊРЅРёС… С‚Р° С„СѓРЅРєС†С–РѕРЅР°Р»СЊРЅРёС… С‚РµСЃС‚С–РІ
-РџСЂРѕРїРѕРЅСѓС”РјРѕ:
-СЃРІРѕР±РѕРґСѓ РїСЂРёР№РјР°С‚Рё СЂС–С€РµРЅРЅСЏ С‚Р° РІС‚С–Р»СЋРІР°С‚Рё С–РґРµС—
-РјРѕР¶Р»РёРІС–СЃС‚СЊ РІРїР»РёРІР°С‚Рё РЅР° РїСЂРѕРґСѓРєС‚ С– РІРёСЂРѕР±РЅРёС†С‚РІРѕ Р·Р°РјС–СЃС‚СЊ РјРѕРЅРѕС‚РѕРЅРЅРѕРіРѕ Р·Р°РєСЂРёС‚С‚СЏ Р·Р°РґР°С‡
-РіРЅСѓС‡РєРёР№ РіСЂР°С„С–Рє Сѓ РѕС„С–СЃС–
-СЂРѕР±РѕС‚Сѓ РІ РјРѕС‚РёРІРѕРІР°РЅС–Р№ РєРѕРјР°РЅРґС– С‚Р° zero bullshit culture
-С‚СѓСЂР±РѕС‚Сѓ С‚Р° РјРµРґРёС‡РЅРµ СЃС‚СЂР°С…СѓРІР°РЅРЅСЏ
-Р”РѕР»СѓС‡Р°Р№С‚РµСЃСЏ, С‰РѕР± Р·СЂРѕР±РёС‚Рё Made in Ukraine СЃРёРЅРѕРЅС–РјРѕРј РЅР°РґС–Р№РЅРѕСЃС‚С–.
-Ajax вЂ” СЃРІРѕР±РѕРґР° Р±СѓС‚Рё С–РЅР¶РµРЅРµСЂРѕРј!"
-Salesforce switcher,Sparkybit,https://ua.indeed.com/cmp/Sparkybit?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp546nk98r800&fromjk=a90a081139f9eaf8,Р›СЊРІС–РІ,"
-
-
-
-
-Lviv
- Dnipro
- Kharkiv
-
-
-
-
-
-
- What knowledge and experience we expect from our candidate:
-
- at least 1 year of commercial experience as a backend developer (Java, C #, C ++, Python, Node.JS) OOP, SOLID, Design Patterns
- experience with databases (SQL, MySQL, MongoDB, etc.)
- knowledge of algorithms and data structures
- ability to work in a team, understanding of software development processes
- English level вЂ” intermediate and higher.
-
- Will be a plus:
-
- experience in frontend development (Javascript, React, Angular, etc.)
- experience with Salesforce
- Salesforce certifications.
+ Strong result- and customer-oriented approach
+ Hard-working
+ Able to manage a high-volume work environment
+ Detail-oriented
+ Reliable
+ Good attitude to work
+ Able to meet deadlines
+ Collaboration skills
+ Ability to act in different cultural contexts
 
  We offer:
 
- work as PE (the company has an accountant who deals with these\ questions), tax compensation
- 18 working days of paid vacation, 5 days of sick leave
- cozy office in the city center
- a fully equipped workplace in the office;
- professional growth
- access to internal English courses
- participation in conferences and educational events, with compensation from 50% to 100% of the cost
- social corporate activities and events.
+ Annual Performance Bonus Scheme
+ Regular performance reviews
+ Personal and professional development
+ Incentives (marriage, childbirth)
+ Maternity/paternity leave benefit
+ 20 working days of annual paid vacation
+ Paid sick-leaves
+ Free coffee/tea/fruits
+ Team buildings
+ Modern and comfortable office facilities
+ Friendly atmosphere
 
- About Salesforce switcher program at Sparkybit:
+ Terms of Work:
 
- This is a full-time position for a junior/middle developer.
- Salesforce switcher program is an enhanced, individual training supervised by a dedicated experienced developer/mentor, for developers with commercial experience.
- The training period for a full transition to the Salesforce position is up to 2 months and depends on the speed of learning the material and completing practical tasks.
- After completing the program, developer passes the Salesforce Certified Platform Developer I certification, paid by the company.
+ 3-month trial period
+ 40 hours a week.
+ Start: ASAP
 
- About Salesforce in the company:
-
- Since 2017, one of the main areas of work of Sparkybit вЂ” is Salesforce.
- The target market is Western Europe and the USA.
- The companyвЂ™s Salesforce department is a strong development team. Some of its specialists came to Salesforce from other technologies, and some took the Salesforce trainee course at the company.
- Each employee passes international certifications, develops soft skills, improves English, constantly develops in new technologies вЂ” both in Salesforce direction (Apex, Visualforce, Aura, Lightning Web Components, Salesforce Community, Pardot, etc.) and in software development in general.
-
- What is Salesforce?
- Salesforce is an ecosystem for developing enterprise applications of various levels of complexity, which is a close combination of PaaS, SaaS, and cloud computing. The system consists of many components, the main ones of which are:
-
- Force.com вЂ” self-hosted application development platform. Apex, an object-oriented programming language, is used as a means for developing the backend part. For the frontend parts, both a Salesforce.com-based interface development tool and any javascript framework (ReactJS, AngularJS, etc.) can be used.
- Salesforce.com is the leading CRM system in the market, which can act as a tool for administering the entire Salesforce system, and as a visual interface for applications developed in the Force.com environment.
- Database.com is a cloud-based relational database, modeled on Oracle Database.
-
- Below is a list of resources (in Russian) to get more information on getting started with Salesforce:
-
- An article about getting started with Salesforce;\
- An article about the first 6 months in Salesforce вЂ” from the Salesforce programвЂ™s ex-trainee experience;\
- вЂњGet to know SalesforceвЂќ video.
-
- These materials were created on the basis of the Ukrainian Salesforce community.
+ Place of Work:
+ Keel K. Miklosha 23 79045 Lviv Ukraine
+ If it doesn’t sound like a job for you but you have a friend who might be a good fit, send them a link. Thanks!
+ Join us on facebook: https://www.facebook.com/keelsolution
 
 
-
-"
-Senior Full Stack Developer in Visual Suite Team,Namecheap,https://ua.indeed.com/cmp/Namecheap?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp57rd2fso000&fromjk=49f78b2c2fba250a,Р›СЊРІС–РІ,"
+Senior Full Stack Developer in Visual Suite Team:::Namecheap:::https://ua.indeed.com/cmp/Namecheap?campaignid=mobvjcmp&from=mobviewjob&tk=1grnul4j5jv69800&fromjk=49f78b2c2fba250a:::Львів:::
 
 Technology Department in Ukraine, Lviv
 
@@ -1633,13 +1639,13 @@ Proficient in understanding cross-browser compatibility issues and ways to work 
 Have experience working with end-to-end testing frameworks such as Playwright / Cypress / TestCafe
 Proficient in using Git
 
-WhatвЂ™s in it for you?
+What’s in it for you?
 
 Opportunity to deal with top-notch technologies and approaches in a world-leader product company with millions of customers
 Opportunity to make a difference for online privacy, freedom of speech, and net neutrality
 Decent market rate compensation depending on experience and skills
 Developed corporate culture: no micromanagement, culture based on principles of truth, trust, and transparency
-вЂњYou build it, you own itвЂќ mentality in most contexts
+“You build it, you own it” mentality in most contexts
 Support of personal and professional development 
     
 coverage of costs of external trainings, conferences, professional literature
@@ -1671,124 +1677,85 @@ Participate in code and design reviews
 Write technical documentation
 
 About the company and project:
- Namecheap was founded in 2000 on the idea that all people deserve value-priced domains delivered through stellar service. Today Namecheap is a leading ICANN-accredited domain name registrar and web hosting company with over 12 million customers and 16 million domains under management вЂ” and weвЂ™re just getting started.
+ Namecheap was founded in 2000 on the idea that all people deserve value-priced domains delivered through stellar service. Today Namecheap is a leading ICANN-accredited domain name registrar and web hosting company with over 12 million customers and 16 million domains under management — and we’re just getting started.
  Our culture is built on the values that we live every day; the way we work, the way we collaborate with our global network of colleagues and the way we relentlessly innovate solutions that meet the emerging needs of our customers.
 
 
-"
-Ruby/ Python Developer вЂ“ Infrastructure Specialist,Keel Solution,https://ua.indeed.com/cmp/Keel-Solution?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp5bfnkcp7800&fromjk=65a05255daa830e6,Р›СЊРІС–РІ,"
 
-Location: Lviv, Ukraine (Hybrid)
- Contract Type: Full-time
- About the job
- ABOUT US:
- Keel is an international company with headquarters in Copenhagen, Denmark and operational office in Lviv, Ukraine. We offer technological solutions for the Energy sector and Utilities. Our clients are Fortune-500 Energy companies that are technology leaders within their sectors.
- Our core values:
- Knowledge: Our expertise combines the knowledge of a team of professionals who form a solid core of the company.
- Engagement: Team drive, commitment, curiosity and willingness to learn are the key factors driving our success.
- Empowerment: Our staff is our main asset, and we realize that they help us to find methods for achieving our goals.
- Loyalty: We are always loyal to each other and build strong relationships with our customers.
- What itвЂ™s Like to Work with Us:
- Providing services for our customers gives us the opportunity to work with the cutting-edge technologies and state-of-the-art industrial equipment and assets. This helps to get a variety of learning and development opportunities as well as professional growth for our employees. Working with us means contributing to innovative and challenging projects that are driving future energy transformation across the globe.
- ABOUT YOU:
- Education:
+Senior Node.js Developer:::PROBEGIN:::https://ua.indeed.com/cmp/Probegin?campaignid=mobvjcmp&from=mobviewjob&tk=1grnul86pjkkl800&fromjk=f4985b37acc561c7:::Львів:::
+Our client – an experienced software development company, working for industry leaders on innovative, dynamic and interesting projects. The project is an broadly developed, high load and high volume system, you will be participating into the development of this very dynamic and challenging projects across different competences. The teams is multi-disciplined and you will work together. Teams will be changed after completion of each project, so you will always have challenging work.
+ Requirements:
 
- BachelorвЂ™s degree or higher education in Computer science, Software engineering or equivalent
+ You have 3 – 5 years IT professional, working as Python, PHP or Javascript Developer
+ At least 1 year Experience in Node.js, more experience is better
+ Experience with Typescript
+ Understanding of HTML, CSS, XML
+ You prefer node.js but can also handle React from time to time.
+ Understanding MariaDB
+ Clean and Clear Coding
+ Good understanding of MVC
+ Strong work drive, drive to perform and grow
+ Good knowledge and experience of building OOP
+ Working experience with the following Tools: Git, JIRA, Confluence
+ Experience with and knowledge of Microservice architecture
+ 3+ years of business project experience
+ Professional attitude and work ethics
+ Good level of English
 
- Professional experience:
+ We will offer you:
 
- 2+ years of practical experience with agile software deployment, depth knowledge on virtualization, server operating systems and scripting
- Experience working in SAFe (Enterprise) is beneficial
+ Experienced, open-minded, professional teams
+ Unique working environment where you communicate and work directly with client
+ Nice work environment where you work with Friends
+ Competitive salary
+ Excellent benefits
+ Fresh and Tasty Coffee, Tea and Cookies
+ Courses of English
+ Five-days working week
+ Health Insurance & Multisport Program
+ Flexible Office hours, depending on the project
+ Paid vacation (21 working days) and sick leave
+ Career Planning, Development and Training
+ Lots of company activities
 
- Foreign Languages:
+ Interested to join this cool and innovative project? Send us your CV and motivation letter to hr@probegin.com
 
- Upper Intermediate English
-
- Competencies:
-
- Chef (Ruby)
- Ansible (Python)
- PowerShell
- Vmware/Hyper-V
-
- Tasks and Responsibilities:
-
- Automation of installation through Chef, Ansible, PowerShell and other tools
- Component owner tasks вЂ“ test, verification, documentation and release of firmware and software
- Creating documentation and training material
- Participation in requirement clarification, effort estimation and design sessions
-
- Personal skills:
-
- Strong result- and customer-oriented approach
- Hard-working
- Able to manage a high-volume work environment
- Detail-oriented
- Reliable
- Good attitude to work
- Able to meet deadlines
- Collaboration skills
- Ability to act in different cultural contexts
-
- We offer:
-
- Annual Performance Bonus Scheme
- Regular performance reviews
- Personal and professional development
- Incentives (marriage, childbirth)
- Maternity/paternity leave benefit
- 20 working days of annual paid vacation
- Paid sick-leaves
- Free coffee/tea/fruits
- Team buildings
- Modern and comfortable office facilities
- Friendly atmosphere
-
- Terms of Work:
-
- 3-month trial period
- 40 hours a week.
- Start: ASAP
-
- Place of Work:
- Keel K. Miklosha 23 79045 Lviv Ukraine
- If it doesnвЂ™t sound like a job for you but you have a friend who might be a good fit, send them a link. Thanks!
- Join us on facebook: https://www.facebook.com/keelsolution
-
-"
-Senior PHP/JavaScript Developer,ZeyOS,https://ua.indeed.com/cmp/Zeyos?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp5f4u2hjc000&fromjk=8d13e9b983a64118,Р›СЊРІС–РІ,"
-
-
-
-
-    Worldwide
-   
-
-ZeyOS is a software company with offices in Munich and San Francisco. We are currently in the process of establishing a team for software development, marketing assistance and customer support in Lviv. By mid-2016 we want to grow the team to 12 people.
- For this purpose, we are searching for outstanding web developers to be responsible for developing innovative business applications for our customers.
- Your responsibilities
- Coding, debugging and unit testing per technical requirements and design Work closely with Project Managers and other members of the Development Team to both develop detailed specification documents with clear project deliverables and timelines, and to ensure timely completion of deliverables. Customize, configure, and administrate customer systems Develop modules and extensions for our ZeyOS application platform Create stand-alone web-applications in PHP and JavaScript Support and maintenance of existing codebase
- Qualifications and requirements:
- Excellent PHP skills Excellent JavaScript skills, preferably with frameworks such as AngularJS Experience with Python Good Linux and Shell skills, preferably on Ubuntu/Debian Solid database skills, especially SQL databases (PostgreSQL and MySQL) Understanding of web protocols and standards such as SOAP, JSON, REST, etc. Experience with WebGL is a plus
-
-
-
-
-
-About Us
-ZeyOS is a software company originally founded in Munich 2009. We offer a platform for small businesses that unifies all the features you care about in one brilliant and intuitive platform - from e-mail and calendaring to inventory management and billing. We help growing companies that are stuck in a web of mesh-up and makeshift solutions. We are doing for businesses, what Apple did for consumers: Offering a truly integrated eco system for business apps that is as easy to use as iTunes, yet powerful and extensible in order to solve today's business problems.
-
-
-Location
-Lviv: iHub Lviv Zamknena St 9 Lviv Oblast Ukraine 
-Munich: Bretonischer Ring 5 85630 Grasbrunn Germany 
-San Francisco: 720 University Ave Palo Alto, CA 94301 United States
-
-
-
-
-"
-Senior Azure DevOps,Vector Software,https://ua.indeed.com/cmp/Vector-Software?campaignid=mobvjcmp&from=mobviewjob&tk=1grnp5inmk98r800&fromjk=5f10d332b1b8ca73,Р›СЊРІС–РІ,"
+Embedded Developer (Malevich):::Ajax Systems:::https://ua.indeed.com/cmp/AJAX-Systems?campaignid=mobvjcmp&from=mobviewjob&tk=1grnulbqdjk9h801&fromjk=8c89a118a0fdf533:::Львів:::Ajax Systems — розробник і виробник систем безпеки Ajax із можливостями розумного дому. Це понад 50 пристроїв, мобільні та десктопні застосунки, серверна інфраструктура. У лінійці Ajax представлено централі керування із власною RTOS (OS Malevich), датчики руху, відчинення, захисту від затоплення та пожежні датчики, вуличні й домашні сирени, тривожна кнопка з функцією керування приладами, розумні розетки та реле.
+Щороку ми демонструємо кратне зростання як у чисельності команди, так і в кількості користувачів у всьому світі. Виробництво Ajax Systems налічує два заводи, що розташовані в Україні. Також у нас чотири R&D-офіси: у Києві, Харкові, Львові та Вінниці. Локальні команди продажів є у Великобританії, Італії, Іспанії, Португалії, Німеччині, Польщі, Норвегії, Румунії, Туреччині, ОАЕ та ПАР.
+Датчики Ajax охороняють понад 1 000 000 користувачів у більш ніж 130 країнах світу.
+За розробку пристроїв у Ajax відповідає R&D-департамент, який складається з чотирьох команд: System, Devices, Automation та QA.Команда System робить пристрої розумними, перетворюючи їх на повноцінний IoT. Учасники команди створили й розвивають OS Malevich (модульна RTOS для різних апаратних платформ) і хмарний сервіс Ajax Cloud (Java 12, AWS, Akka). Для керування, обслуговування та моніторингу системи користувачами, інсталяторами й інженерами охоронних компаній розроблені застосунки для iOS (Objective-C, Swift), Android (Java, Kotlin), Windows/macOS (Python, QT, QML).
+У нас багато пропрієтарних технологій. Так, ми впроваджуємо в ДНК продукту можливості й технології, копіювання яких є настільки трудомістким процесом, що просто не має сенсу. Такими розробками стали радіопротоколи Jeweller і Wings, операційна система OS Malevich, алгоритми датчиків і багато іншого. Саме в команду розробки OS Malevich ми шукаємо Embedded-інженерів, які готові покращити нашу систему разом з нами
+Вимоги:
+досвід розробки комерційних продуктів IoT від 2-х років;
+досвід написання ПЗ під FreeRTOS, TIrtos, etc або під baremetal;
+досвід роботи з процесорами STM32;
+відмінне знання embedded coding techniques, інтерфейсів (SPI, I2C, UART) та підсистем;
+досвід роботи з архітектурою ARM Cortex;
+впевнені знання мови програмування C;
+розуміння операційних систем: досвід програмування у embedded Linux або подібних вбудованих операційних системах (розуміння понять потоків, задач, нам важливий досвід з Real-time operating system);
+досвід наладки та валідації складних embedded system та робота з протоколом стеку
+Буде плюсом:
+досвід програмування RF-модулів та розробки бездротових рішень для низького енергоспоживання;
+знання скриптових мов (Python, Bash)
+мультизадачність, можливість ефективно і швидко переключатись між різними проектами;
+основи електроніки: наші Embedded інженери використовують осцилографи, логічні аналізатори та мультиметри
+Обов’язки:
+активна участь у повному циклі розробки ПЗ для embedded: проектування, впровадження, рев’ю коду, документування, тестування та валідація;
+бажання і наполегливість знаходити справжнє джерело проблеми, що прийшла як від користувачів, так і від команди QA
+співпраця з інженерами-електриками для перевірки нового обладнання з точки зору software team;
+модернізація фреймворка під нові пристрої, участь у релізах ОС Malevich;
+робота з високими технічними вимогами до досліджень та розробок нового функціоналу;
+участь у прийнятті дизайнерських рішень щодо розробки високопродуктивних та надійних embedded систем;
+створення модульних та функціональних тестів
+Пропонуємо:
+свободу приймати рішення та втілювати ідеї
+можливість впливати на продукт і виробництво замість монотонного закриття задач
+гнучкий графік у офісі
+роботу в мотивованій команді та zero bullshit culture
+турботу та медичне страхування
+Долучайтеся, щоб зробити Made in Ukraine синонімом надійності.
+Ajax — свобода бути інженером!
+Senior Azure DevOps:::Vector Software:::https://ua.indeed.com/cmp/Vector-Software?campaignid=mobvjcmp&from=mobviewjob&tk=1grnulfdojrh0801&fromjk=5f10d332b1b8ca73:::Львів:::
 
 
 
@@ -1824,7 +1791,7 @@ Design, document, build and operate CI/CD procedures into cloud environments usi
 Investigate, troubleshoot and resolve any issues in CI/CD procedures,
 Measure, optimize, and tune of system performance and ensure that systems will run reliably and stable,
 Work closely with Infrastructure and/or Solutions Architect, Product Owners in order to implement, create and deploy solutions in the cloud,
-Monitor and Support customer cloud environment ensuring that the infrastructure is available, operating and SLAвЂ™s are fulfilled,
+Monitor and Support customer cloud environment ensuring that the infrastructure is available, operating and SLA’s are fulfilled,
 Investigate, troubleshoot and resolve any issues in cloud environments by examining configuration, checking logs, etc.
 Implement Security Requirements enforced from PCI-DSS Certification and/or SOC2,
 Manage complex projects from inception to completion
@@ -1845,7 +1812,7 @@ Requirements:
 
 
 
-BachelorвЂ™s degree from an accredited college or university with specialization in Information Technology, Computer Science or equivalent,
+Bachelor’s degree from an accredited college or university with specialization in Information Technology, Computer Science or equivalent,
 4+ years experience in Systems Engineering as a Senior or 2+ years experience as DevOps
 Two years of working experience with major cloud platforms (Azure, Google Cloud, or AWS),
 Background in Linux (Ubuntu, RedHat) & Windows Server Administration,
@@ -1921,4 +1888,36 @@ Exciting team buildings (with allocated team budget)
     Or send your CV at job@vector-software.com
   
 
-"
+
+Senior PHP/JavaScript Developer:::ZeyOS:::https://ua.indeed.com/cmp/Zeyos?campaignid=mobvjcmp&from=mobviewjob&tk=1grnulj20ienu800&fromjk=8d13e9b983a64118:::Львів:::
+
+
+
+
+    Worldwide
+   
+
+ZeyOS is a software company with offices in Munich and San Francisco. We are currently in the process of establishing a team for software development, marketing assistance and customer support in Lviv. By mid-2016 we want to grow the team to 12 people.
+ For this purpose, we are searching for outstanding web developers to be responsible for developing innovative business applications for our customers.
+ Your responsibilities
+ Coding, debugging and unit testing per technical requirements and design Work closely with Project Managers and other members of the Development Team to both develop detailed specification documents with clear project deliverables and timelines, and to ensure timely completion of deliverables. Customize, configure, and administrate customer systems Develop modules and extensions for our ZeyOS application platform Create stand-alone web-applications in PHP and JavaScript Support and maintenance of existing codebase
+ Qualifications and requirements:
+ Excellent PHP skills Excellent JavaScript skills, preferably with frameworks such as AngularJS Experience with Python Good Linux and Shell skills, preferably on Ubuntu/Debian Solid database skills, especially SQL databases (PostgreSQL and MySQL) Understanding of web protocols and standards such as SOAP, JSON, REST, etc. Experience with WebGL is a plus
+
+
+
+
+
+About Us
+ZeyOS is a software company originally founded in Munich 2009. We offer a platform for small businesses that unifies all the features you care about in one brilliant and intuitive platform - from e-mail and calendaring to inventory management and billing. We help growing companies that are stuck in a web of mesh-up and makeshift solutions. We are doing for businesses, what Apple did for consumers: Offering a truly integrated eco system for business apps that is as easy to use as iTunes, yet powerful and extensible in order to solve today's business problems.
+
+
+Location
+Lviv: iHub Lviv Zamknena St 9 Lviv Oblast Ukraine 
+Munich: Bretonischer Ring 5 85630 Grasbrunn Germany 
+San Francisco: 720 University Ave Palo Alto, CA 94301 United States
+
+
+
+
+
