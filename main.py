@@ -63,7 +63,6 @@ while True: #traversing through all job cards in every page and parsing data fro
         driver.close()
         break
 
-print(df)
-# df.to_csv('data/jobs.csv',index=False) # output to csv
+
 my_numpy = df.to_numpy()
 np.savetxt('data/jobs.csv', my_numpy,fmt='%s', delimiter=':::')

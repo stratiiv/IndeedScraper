@@ -1,0 +1,2 @@
+## Indeed scraper
+This Python code uses the Selenium and BeautifulSoup libraries to scrape job postings data from the Indeed website based on a specified job title and location. It then stores the extracted data (job title, company name and link, location, and job description) in a Pandas dataframe and saves it to a CSV file. The code also performs scrolling to load all job postings and handles pop-ups for Google login and cookies alerts. Overall, this code can be used to collect job data for further analysis or processing.
